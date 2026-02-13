@@ -66,3 +66,23 @@
 [2026-02-13 06:36:32] WARNING  root - Empty page on https://nitter.privacyredirect.com
 [2026-02-13 06:36:47] INFO     __main__ -   ✓ MegaMedusa 완료: 트윗 19개 / 스레드 0개
 [2026-02-13 06:36:47] INFO     __main__ - 작업 완료: 5/5 성공 (123초)
+[2026-02-13 06:39:59] INFO     __main__ - X(트위터) 데이터 수집 시스템 시작
+[2026-02-13 06:39:59] INFO     __main__ - 대상 계정: RipperSec, RipperSec DDoS, DDoS attack, DDoS Malaysia, MegaMedusa
+[2026-02-13 06:39:59] INFO     __main__ - 크롤링 작업 시작 (5개 계정)
+[2026-02-13 06:39:59] INFO     __main__ - LibRedirect API에서 8개 인스턴스 조회
+[2026-02-13 06:40:02] INFO     __main__ - 활성 인스턴스: 2개
+[2026-02-13 06:40:03] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-13 06:40:33] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 06:40:47] INFO     __main__ -   ✓ RipperSec 완료: 트윗 9개 / 스레드 0개
+[2026-02-13 06:40:47] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-13 06:41:16] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 06:41:30] INFO     __main__ -   ✓ RipperSec DDoS 완료: 트윗 9개 / 스레드 0개
+[2026-02-13 06:41:31] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-13 06:42:00] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 06:42:14] INFO     __main__ -   ✓ DDoS attack 완료: 트윗 3개 / 스레드 0개
+[2026-02-13 06:42:14] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-13 06:42:28] INFO     __main__ -   ✓ DDoS Malaysia 완료: 트윗 20개 / 스레드 0개
+[2026-02-13 06:42:29] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-13 06:42:57] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 06:43:12] INFO     __main__ -   ✓ MegaMedusa 완료: 트윗 19개 / 스레드 0개
+[2026-02-13 06:43:12] INFO     __main__ - 작업 완료: 5/5 성공 (193초)

@@ -1,0 +1,93 @@
+{
+  "username": "DDoS attack",
+  "tweets": [
+    {
+      "id": "2022189076703756664",
+      "link": "https://twitter.com/transilienceai/status/2022189076703756664#m",
+      "text": "🚨 AISURU-Kimwolf Threat Intelligence Report [High] Feb 13, 2026  Analysis of the AISURU/Kimwolf botnet, its DDoS attack campaigns, and associated risks.  Checkout our Threat Intelligence Platform: threatintel.transilience.clo… threatintel.transilience.clo… #LLM",
+      "user": {
+        "name": "transilienceai",
+        "username": "@transilienceai",
+        "profile_id": "1774406319857905665",
+        "avatar": "/pic/profile_images/1774406319857905665/GRssapFg_bigger.png"
+      },
+      "date": "Feb 13, 2026 · 6:00 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 9
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022174837503144151",
+      "link": "https://twitter.com/_01010101/status/2022174837503144151#m",
+      "text": "AI DDOS attack in real live 🥴",
+      "user": {
+        "name": "Kim Bee",
+        "username": "@_01010101",
+        "profile_id": "1907789923421200385",
+        "avatar": "/pic/profile_images/1907789923421200385/r9t93smG_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 5:03 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 2
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022171568299028723",
+      "link": "https://twitter.com/jkq6000/status/2022171568299028723#m",
+      "text": "DDoS Attacks Doubled in 2025  Cloudflare's report shows attacks more than doubled last year. The scariest part? Network-layer attacks grew 700%. One attack hit a record 31.4 Tbps.  Read more: blog.cloudflare.com/ddos-thr…",
+      "user": {
+        "name": "Sarang",
+        "username": "@jkq6000",
+        "profile_id": "1983492215713525760",
+        "avatar": "/pic/profile_images/1983492215713525760/V7q5_YMn_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 4:50 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://blog.cloudflare.com/ddos-threat-report-2025-q4/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 4
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T06:42:14.481864",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 3,
+    "thread_count": 0,
+    "instance_tried": 2,
+    "total_instances": 2
+  }
+}
