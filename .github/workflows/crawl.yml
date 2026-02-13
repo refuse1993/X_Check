@@ -2,7 +2,7 @@ name: X Threat Intelligence Crawler
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 매시간 정각
+    - cron: '0 */2 * * *'  # 2시간마다
   push:
     paths:
       - 'config.json'    # 설정 파일 변경 시 즉시 실행
