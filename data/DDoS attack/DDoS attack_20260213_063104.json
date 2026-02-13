@@ -1,0 +1,255 @@
+{
+  "username": "DDoS attack",
+  "tweets": [
+    {
+      "id": "2022189076703756664",
+      "link": "https://twitter.com/transilienceai/status/2022189076703756664#m",
+      "text": "🚨 AISURU-Kimwolf Threat Intelligence Report [High] Feb 13, 2026  Analysis of the AISURU/Kimwolf botnet, its DDoS attack campaigns, and associated risks.  Checkout our Threat Intelligence Platform: threatintel.transilience.clo… threatintel.transilience.clo… #LLM",
+      "user": {
+        "name": "transilienceai",
+        "username": "@transilienceai",
+        "profile_id": "1774406319857905665",
+        "avatar": "/pic/profile_images/1774406319857905665/GRssapFg_bigger.png"
+      },
+      "date": "Feb 13, 2026 · 6:00 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 6
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022174837503144151",
+      "link": "https://twitter.com/_01010101/status/2022174837503144151#m",
+      "text": "AI DDOS attack in real live 🥴",
+      "user": {
+        "name": "Kim Bee",
+        "username": "@_01010101",
+        "profile_id": "1907789923421200385",
+        "avatar": "/pic/profile_images/1907789923421200385/r9t93smG_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 5:03 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 2
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022171568299028723",
+      "link": "https://twitter.com/jkq6000/status/2022171568299028723#m",
+      "text": "DDoS Attacks Doubled in 2025  Cloudflare's report shows attacks more than doubled last year. The scariest part? Network-layer attacks grew 700%. One attack hit a record 31.4 Tbps.  Read more: blog.cloudflare.com/ddos-thr…",
+      "user": {
+        "name": "Sarang",
+        "username": "@jkq6000",
+        "profile_id": "1983492215713525760",
+        "avatar": "/pic/profile_images/1983492215713525760/V7q5_YMn_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 4:50 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://blog.cloudflare.com/ddos-threat-report-2025-q4/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 4
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022138720280064370",
+      "link": "https://twitter.com/MoxiesKlubhouse/status/2022138720280064370#m",
+      "text": "Our website is down due to a ddos attack. We will have it back up as soon as we can.",
+      "user": {
+        "name": "MoxiesKlubhouse",
+        "username": "@MoxiesKlubhouse",
+        "profile_id": "1779912526374883328",
+        "avatar": "/pic/profile_images/1779912526374883328/YAOLmj_f_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 2:40 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 2,
+        "quotes": 2,
+        "likes": 57
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022161818647769461",
+      "link": "https://twitter.com/josiasblanco80/status/2022161818647769461#m",
+      "text": "Its not a ddos attack people are using a software that lets u auto green and not only that u can lag switch people on command by pressing a button and pressing it again to turn it off and on wenever shit dumb asf",
+      "user": {
+        "name": "Josias",
+        "username": "@josiasblanco80",
+        "profile_id": "1369554108621930497",
+        "avatar": "/pic/profile_images/1369554108621930497/1upR7gZF_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 4:12 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@NadeGrinds",
+        "@itsEvanCC",
+        "@Beluba"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 56
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022153722558841073",
+      "link": "https://twitter.com/KharayKrayKray/status/2022153722558841073#m",
+      "text": "Cloudflare. They’ll solve most your issues. This is most likely crawlers, scrappers or DDOS attack.  You need rate limiting, captcha, and other ways to slow your attackers down.   Check your server logs too. They’ll help you understand what’s happening better.",
+      "user": {
+        "name": "random guy on the internet",
+        "username": "@KharayKrayKray",
+        "profile_id": "1945246019731513344",
+        "avatar": "/pic/profile_images/1945246019731513344/y2UOLJ6a_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 3:39 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@Devg3ntl3"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 15
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021616336279912478",
+      "link": "https://twitter.com/glennbeck/status/2021616336279912478#m",
+      "text": "From Iran to El Paso to a DDos attack on GlennBeck.com, it's been a VERY weird day.",
+      "user": {
+        "name": "Glenn Beck",
+        "username": "@glennbeck",
+        "profile_id": "2010524135747682304",
+        "avatar": "/pic/profile_images/2010524135747682304/M2zExh5X_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 4:04 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 31,
+        "retweets": 65,
+        "quotes": 659,
+        "likes": 27307
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022137767681986681",
+      "link": "https://twitter.com/shingo_a10/status/2022137767681986681#m",
+      "text": "The DDoS attack landscape is evolving at an alarming pace. Download the free A10 DDoS weapons report to stay informed and protect your organization. bit.ly/4apifYX #cybersecurity #DDoS",
+      "user": {
+        "name": "Shingo Takagi, Marketing/BizDev A10Networks, Japan",
+        "username": "@shingo_a10",
+        "profile_id": "1253563203272859648",
+        "avatar": "/pic/profile_images/1253563203272859648/_2OBHk8l_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 2:36 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 24
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2017070266233606636",
+      "link": "https://twitter.com/Pirat_Nation/status/2017070266233606636#m",
+      "text": "Cloudflare claims a new world record for a 31.4 Tbps DDoS botnet attack it recorded late last year.  The attack occurred on December 19, 2025, and was launched by the Aisuru/Kimwolf botnet as part of a campaign called \"The Night Before Christmas.\"    It primarily targeted telecommunications companies, along with Cloudflare customers, the dashboard, and infrastructure.",
+      "user": {
+        "name": "Pirat_Nation 🔴",
+        "username": "@Pirat_Nation",
+        "profile_id": "1795139938586890240",
+        "avatar": "/pic/profile_images/1795139938586890240/fQtS5oQr_bigger.jpg"
+      },
+      "date": "Jan 30, 2026 · 3:00 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 24,
+        "retweets": 72,
+        "quotes": 1370,
+        "likes": 70973
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T06:31:04.351963",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 9,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}

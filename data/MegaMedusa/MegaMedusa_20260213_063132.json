@@ -1,0 +1,515 @@
+{
+  "username": "MegaMedusa",
+  "tweets": [
+    {
+      "id": "2000187633897734494",
+      "link": "https://twitter.com/devastellar/status/2000187633897734494#m",
+      "text": "Megamedusa😂😂😂😂😂",
+      "user": {
+        "name": "Princess Devastellar Duchess of SUSS🍪🇦🇺🇬🇧",
+        "username": "@devastellar",
+        "profile_id": "1773819619205402624",
+        "avatar": "/pic/profile_images/1773819619205402624/LnSFKDIf_bigger.jpg"
+      },
+      "date": "Dec 14, 2025 · 12:54 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@jackinforest",
+        "@longsally",
+        "@YouTube"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 26
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": [
+        "https://video.twimg.com/tweet_video/G8IYDJwbIAAan8H.mp4"
+      ]
+    },
+    {
+      "id": "1993461026696696192",
+      "link": "https://twitter.com/CaaOakland/status/1993461026696696192#m",
+      "text": "Here's a $100 FREE CHIP to try out Mega Medusa on the house. megamedusa.com/signup?affTag…",
+      "user": {
+        "name": "Oakland McCaa",
+        "username": "@CaaOakland",
+        "profile_id": "660080742370676736",
+        "avatar": "/pic/profile_images/660080742370676736/5qbUWJot_bigger.jpg"
+      },
+      "date": "Nov 25, 2025 · 11:25 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 28
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1991229814838292746",
+      "link": "https://twitter.com/Team_D4rkn3ttz/status/1991229814838292746#m",
+      "text": "FYI. On 5 Oct 2025, the group shared “#MegaMedusa v3.3.1”, a #NodeJS-based L7 #DDoS tool:    Multi-platform (Linux, Termux, Windows) with low barrier to use  High-RPS HTTP flooding via large proxy lists (geo-distributed traffic)  Hard-coded blockedDomains covering many Middle East / Muslim-majority ccTLDs (e.g. .ir, .sy, .sa, .ps, .ae, …) → explicit ideological ROE: “our” regions are off-limits",
+      "user": {
+        "name": "Team D4rkn3ttz",
+        "username": "@Team_D4rkn3ttz",
+        "profile_id": "1923357305954861056",
+        "avatar": "/pic/profile_images/1923357305954861056/FTi9xC1g_bigger.jpg"
+      },
+      "date": "Nov 19, 2025 · 7:39 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 481
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1989373543725855067",
+      "link": "https://twitter.com/NETSCOUT/status/1989373543725855067#m",
+      "text": "Ever wonder what happens when hackers lose their hiding spots?  Our team has just dissected an interesting case: a once-active DDoS campaign powered by the MegaMedusa toolkit, which went quiet almost overnight.  It turns out that coordinated intelligence sharing and visibility across global networks disrupted the attacker’s playbook midstream. Proof that collaboration and telemetry matter as much as mitigation. netscout.link/60147ZSYG",
+      "user": {
+        "name": "NETSCOUT",
+        "username": "@NETSCOUT",
+        "profile_id": "1676614507777650688",
+        "avatar": "/pic/profile_images/1676614507777650688/O8U2oEHO_bigger.jpg"
+      },
+      "date": "Nov 14, 2025 · 4:43 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 108
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1975534502824063139",
+      "link": "https://twitter.com/Cyberknow20/status/1975534502824063139#m",
+      "text": "Great additional insights on the return of Rippersec and megamedusa.  #hacktivist #infosec #CyberSecurity",
+      "user": {
+        "name": "CyberKnow",
+        "username": "@Cyberknow20",
+        "profile_id": "1463106094813761536",
+        "avatar": "/pic/profile_images/1463106094813761536/28DpLTkD_bigger.jpg"
+      },
+      "date": "Oct 7, 2025 · 12:11 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 8,
+        "likes": 1571
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1975525782756983133",
+      "link": "https://twitter.com/cyber_megan/status/1975525782756983133#m",
+      "text": "According to SOCRadar, MegaMedusa can bypass multiple security layers, can reportedly hold a DDoS attack for up to 100,000K seconds, uses proxy support to enable traffic to originate from different IPs and countries. socradar.io/exploring-telegr…",
+      "user": {
+        "name": "Megan Ferguson",
+        "username": "@cyber_megan",
+        "profile_id": "1329487370366939143",
+        "avatar": "/pic/profile_images/1329487370366939143/bGTAJqhD_bigger.jpg"
+      },
+      "date": "Oct 7, 2025 · 11:37 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 155
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1975525779652915349",
+      "link": "https://twitter.com/cyber_megan/status/1975525779652915349#m",
+      "text": "Why do you care that RipperSec is back and talking about MegaMedusa?  MegaMedusa is a NodeJS-based Layer-7 DDoS tool, easy to use, and has a less sophisticated public version available to all “volunteers and Telegram subscribers” radware.com/blog/security/me…",
+      "user": {
+        "name": "Megan Ferguson",
+        "username": "@cyber_megan",
+        "profile_id": "1329487370366939143",
+        "avatar": "/pic/profile_images/1329487370366939143/bGTAJqhD_bigger.jpg"
+      },
+      "date": "Oct 7, 2025 · 11:37 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 9,
+        "likes": 2003
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1966650540592349336",
+      "link": "https://twitter.com/Ccwhiteangel/status/1966650540592349336#m",
+      "text": "#OpIsrael #Anonymous #FreePalestine #FreePalestineFromIsraelNOW Online DDOS Attack Helper for Pro-Palestine  Auto attack for Israel websites github.com/Linzh1998/MegaMed… @cygeekpwn @ActivistHT_2 @anonymous999123 @Neophyt_one @Anonaveli @SicknessToxic @_TheRealKalypso @TheStripesGirl",
+      "user": {
+        "name": "Ccwhiteangel",
+        "username": "@Ccwhiteangel",
+        "profile_id": "1645578605840281602",
+        "avatar": "/pic/profile_images/1645578605840281602/ErH9RAAv_bigger.jpg"
+      },
+      "date": "Sep 12, 2025 · 11:50 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 3,
+        "retweets": 13,
+        "quotes": 16,
+        "likes": 431
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1966538380302307336",
+      "link": "https://twitter.com/Ccwhiteangel/status/1966538380302307336#m",
+      "text": "#OpIsrael #Anonymous #FreePalestine #FreePalestineFromIsraelNOW Online DDOS Attack Helper for Pro-Palestine  Auto attack for Israel websites  🚨  github.com/Linzh1998/MegaMed… @AlconAnon @ctrlsecint @nobody_nonono88 @th1s_w0rld @NikolayOCDC @ArcasDeDisco @Hkurrafizimrit @vojtakrinsky",
+      "user": {
+        "name": "Ccwhiteangel",
+        "username": "@Ccwhiteangel",
+        "profile_id": "1645578605840281602",
+        "avatar": "/pic/profile_images/1645578605840281602/ErH9RAAv_bigger.jpg"
+      },
+      "date": "Sep 12, 2025 · 4:24 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 2,
+        "quotes": 10,
+        "likes": 251
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1966498920730702115",
+      "link": "https://twitter.com/Ccwhiteangel/status/1966498920730702115#m",
+      "text": "#OpIsrael #Anonymous #FreePalestine #FreePalestineFromIsraelNOW  Online DDOS Attack Helper for Pro-Palestine  Auto attack for Israel websites  🚨 👇 github.com/Linzh1998/MegaMed… @WeAre_An0nymous @aleya_victoriu0 @gokkurt264 @DeathSec333 @crashd4rk @AnonsquadS3c @SandhookAwaken1",
+      "user": {
+        "name": "Ccwhiteangel",
+        "username": "@Ccwhiteangel",
+        "profile_id": "1645578605840281602",
+        "avatar": "/pic/profile_images/1645578605840281602/ErH9RAAv_bigger.jpg"
+      },
+      "date": "Sep 12, 2025 · 1:47 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 4,
+        "quotes": 14,
+        "likes": 430
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1966483332268540125",
+      "link": "https://twitter.com/Ccwhiteangel/status/1966483332268540125#m",
+      "text": "#OpIsrael #Anonymous #FreePalestine #FreePalestineFromIsraelNOW  Online DDOS Attack Helper for Pro-Palestine  Auto attack for Israel websites  🚨 👇 github.com/Linzh1998/MegaMed… @HaliaV4non @YourAnonCentral @ShutEmDownPt3 @UUs_4nC35am___ @FuckIsis_Canada @AnonSquad035 @arcadiisback",
+      "user": {
+        "name": "Ccwhiteangel",
+        "username": "@Ccwhiteangel",
+        "profile_id": "1645578605840281602",
+        "avatar": "/pic/profile_images/1645578605840281602/ErH9RAAv_bigger.jpg"
+      },
+      "date": "Sep 12, 2025 · 12:45 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 7,
+        "quotes": 14,
+        "likes": 446
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1966463838015893703",
+      "link": "https://twitter.com/Ccwhiteangel/status/1966463838015893703#m",
+      "text": "#OpIsrael #Anonymous #FreePalestine #FreePalestineFromIsraelNOW  Online DDOS Attack Helper for Pro-Palestine  Auto attack for Israel websites  🚨 👇 github.com/Linzh1998/MegaMed… @black_root45 @YourAnonRootSec @r00tscorp10n @RootSecurity21 @OpFuckN4rcos @Anon_Soldier @AnonymousPales5",
+      "user": {
+        "name": "Ccwhiteangel",
+        "username": "@Ccwhiteangel",
+        "profile_id": "1645578605840281602",
+        "avatar": "/pic/profile_images/1645578605840281602/ErH9RAAv_bigger.jpg"
+      },
+      "date": "Sep 12, 2025 · 11:28 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 3,
+        "likes": 155
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1966451829639635099",
+      "link": "https://twitter.com/Ccwhiteangel/status/1966451829639635099#m",
+      "text": "#OpIsrael #Anonymous #FreePalestine #FreePalestineFromIsraelNOW  Online DDOS Attack Helper for Pro-Palestine  Auto attack for Israeli websites  🚨  github.com/Linzh1998/MegaMed… @YourAnonNews @IAmAnonLegion @GH0ST_S3CURITY @GhostClanInt @YourAnonRiots @ShutEmDownPt3 @YourAnonCentral",
+      "user": {
+        "name": "Ccwhiteangel",
+        "username": "@Ccwhiteangel",
+        "profile_id": "1645578605840281602",
+        "avatar": "/pic/profile_images/1645578605840281602/ErH9RAAv_bigger.jpg"
+      },
+      "date": "Sep 12, 2025 · 10:40 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 3,
+        "quotes": 6,
+        "likes": 336
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1942146610869219654",
+      "link": "https://twitter.com/BrisaInfinita/status/1942146610869219654#m",
+      "text": "Lo mejor es ponerse a rezar para que la megamedusa extermine a los políticos 😂🤣 ¿Qué hacer si te pica la megamedusa? share.google/Tw3RPvXBKVDSp33…",
+      "user": {
+        "name": "Bernabe Ramirez 🐉🇪🇸",
+        "username": "@BrisaInfinita",
+        "profile_id": "1861876106711752705",
+        "avatar": "/pic/profile_images/1861876106711752705/wKZHNtus_bigger.jpg"
+      },
+      "date": "Jul 7, 2025 · 9:00 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://share.google/Tw3RPvXBKVDSp33f4",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 56
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1906028405335769245",
+      "link": "https://twitter.com/WatchesNMore7/status/1906028405335769245#m",
+      "text": "Which is your best tool for DDoS attack? Megamedusa, Pyloris, HULK. still testing more tho",
+      "user": {
+        "name": "🦁",
+        "username": "@WatchesNMore7",
+        "profile_id": "1995599035462291456",
+        "avatar": "/pic/profile_images/1995599035462291456/UmSoZaxj_bigger.jpg"
+      },
+      "date": "Mar 29, 2025 · 4:59 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 188
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1902330474284118377",
+      "link": "https://twitter.com/davidkoepi/status/1902330474284118377#m",
+      "text": "Exploring MegaMedusa: The Streamlined DDoS Tool socradar.io/exploring-megame…",
+      "user": {
+        "name": "David Koepi",
+        "username": "@davidkoepi",
+        "profile_id": "1821706568",
+        "avatar": "/pic/profile_images/1821706568/Untitled_bigger.png"
+      },
+      "date": "Mar 19, 2025 · 12:05 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 7,
+        "likes": 209
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1901566868852285700",
+      "link": "https://twitter.com/socradar/status/1901566868852285700#m",
+      "text": "🚨 MegaMedusa: The Easily Accessible DDoS Threat  MegaMedusa isn't new—but it's gaining traction due to its ease of use, putting your systems at increased risk.  🔸 Why is it popular among attackers? 🔸 What's the business impact? 🔸 How can you protect your assets? Full details 👉 socradar.io/exploring-megame… #CyberSecurity #DDoS #MegaMedusa #ThreatIntel #Infosec",
+      "user": {
+        "name": "SOCRadar®",
+        "username": "@socradar",
+        "profile_id": "1758033952281903104",
+        "avatar": "/pic/profile_images/1758033952281903104/spdGJzfU_bigger.png"
+      },
+      "date": "Mar 17, 2025 · 9:30 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 3,
+        "quotes": 7,
+        "likes": 409
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1900898123490488717",
+      "link": "https://twitter.com/rst_cloud/status/1900898123490488717#m",
+      "text": "#threatreport #LowCompleteness Exploring MiniMedusa: The Streamlined DDoS Configuration Derived from MegaMedusa | 15-03-2025 Source: socradar.io/minimedusa-ddos-… Key details below ↓  🧑‍💻Actors/Campaigns: Rippersec (🧠motivation: hacktivism)  💀Threats: Minimedusa_tool, Megamedusa_tool, Httpflood_technique, Slowloris_technique,  🌐Geo: Indonesia, Malaysia  🤖LLM extracted TTPs:` T1499.001  🧨IOCs:  - File: 3  - IP: 5  💽Software: Telegram, sudo  #threatreport: Distributed Denial of Service (DDoS) attacks remain a prominent threat in cybersecurity, with tools like MegaMedusa and its more compact variant, MiniMedusa, democratizing the ability to launch such attacks. Developed by the pro-Palestinian hacktivist group RipperSec, established in June 2023, MegaMedusa is designed for executing large-scale Layer 7 DDoS attacks, which target the application layer of the OSI model. This tool allows attackers to mimic legitimate user behavior, making detection and mitigation significantly more challenging.  MegaMedusa enhances its attack effectiveness through several sophisticated techniques. It employs randomized headers, which vary elements like User-Agent and Referrer to emulate diverse traffic sources. The use of dynamic request paths, characterized by the addition of random query parameters and path segments, further complicates detection efforts. Additionally, by utilizing variable HTTP methods, MegaMedusa ensures unpredictability in attack patterns. Moreover, IP spoofing techniques, such as manipulating the X-Forwarded-For header, obscure the source of the requests, complicating mitigation efforts for targeted organizations.  Layer 7 DDoS attacks, which MegaMedusa facilitates, focus on exhausting server resources by flooding them with high-demand requests, such as database queries or loading resource-intensive scripts, rather than merely overwhelming them with raw traffic as seen in network-layer attacks. Techniques used in these attacks include HTTP floods and Slowloris attacks, both of which disguise malicious traffic as legitimate user activity.  MiniMedusa serves as a more user-friendly and streamlined version of MegaMedusa, retaining essential features while simplifying the attack process. It includes user-agent management for customization, target restrictions that prevent misuse against certain top-level domains, and several configuration options that allow users to tailor their attack strategies. With features for output configuration, passive DNS lookups, and reverse DNS support, MiniMedusa equips users with detailed insights into network connections.  The accessibility of tools like MiniMedusa not only lowers the barriers to launching powerful DDoS attacks but also poses heightened risks to organizations. To counter these threats, implementing robust protective measures is essential. This can involve deploying Web Application Firewalls (WAFs) to filter malicious traffic, implementing rate limiting to control request volumes from individual IP addresses, utilizing Content Delivery Networks (CDNs) for better traffic distribution, and engaging specialized DDoS protection services for real-time attack mitigation.",
+      "user": {
+        "name": "RST Cloud",
+        "username": "@rst_cloud",
+        "profile_id": "1937720098787328001",
+        "avatar": "/pic/profile_images/1937720098787328001/9rREnQTR_bigger.jpg"
+      },
+      "date": "Mar 15, 2025 · 1:13 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 6,
+        "likes": 293
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1900753172630556766",
+      "link": "https://twitter.com/tanbablack/status/1900753172630556766#m",
+      "text": "DDoSツールMegaMedusaの特徴読んだ私→ 😅 botnetもそうだけど、これで攻撃来たら、特徴ランダムすぎて、緩和措置して耐えるしか出来なさそう。 socradar.io/minimedusa-ddos-…",
+      "user": {
+        "name": "Kensuke Ota | 黒豆",
+        "username": "@tanbablack",
+        "profile_id": "2020013170975453184",
+        "avatar": "/pic/profile_images/2020013170975453184/Lrm4MqSC_bigger.jpg"
+      },
+      "date": "Mar 15, 2025 · 3:37 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 3,
+        "likes": 137
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T06:31:32.506640",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 19,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
