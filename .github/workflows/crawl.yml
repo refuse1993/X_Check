@@ -91,11 +91,23 @@ jobs:
                   TOTAL_TWEETS=$((TOTAL_TWEETS + COUNT))
                   TABLE_ROWS="${TABLE_ROWS}| 🔍 **${KEYWORD}** | ${COUNT}건 |\n"
 
-                  REPORT_TEXT="${REPORT_TEXT}<details>\n<summary>🔍 <b>${KEYWORD}</b> (${COUNT}건)</summary>\n\n"
+                  REPORT_TEXT="${REPORT_TEXT}## 🔍 ${KEYWORD} (${COUNT}건)\n\n"
 
-                  # 상위 5개 트윗
-                  TWEETS=$(jq -r '.tweets[:5][] | "| @\(.user.username) | \(.text[:100] | gsub("\n"; " ") | gsub("\\|"; "/")) |"' "$LATEST" 2>/dev/null || echo "")
-                  REPORT_TEXT="${REPORT_TEXT}| 계정 | 내용 |\n|------|------|\n${TWEETS}\n\n</details>\n\n"
+                  # 모든 트윗 상세 정보
+                  while IFS= read -r tweet_json; do
+                    USERNAME=$(echo "$tweet_json" | jq -r '.user.username // "unknown"')
+                    DATE=$(echo "$tweet_json" | jq -r '.date // "N/A"')
+                    LINK=$(echo "$tweet_json" | jq -r '.link // "#"')
+                    TEXT=$(echo "$tweet_json" | jq -r '.text // ""' | sed 's/|/｜/g')
+
+                    REPORT_TEXT="${REPORT_TEXT}<details>\n"
+                    REPORT_TEXT="${REPORT_TEXT}<summary><b>${USERNAME}</b> · ${DATE}</summary>\n\n"
+                    REPORT_TEXT="${REPORT_TEXT}${TEXT}\n\n"
+                    REPORT_TEXT="${REPORT_TEXT}🔗 [원본 보기](${LINK})\n\n"
+                    REPORT_TEXT="${REPORT_TEXT}</details>\n\n"
+                  done < <(jq -c '.tweets[]' "$LATEST" 2>/dev/null)
+
+                  REPORT_TEXT="${REPORT_TEXT}---\n\n"
                 fi
               fi
             fi
