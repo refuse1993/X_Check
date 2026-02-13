@@ -1,12 +1,11 @@
 {
   "search_mode": "term",
   "targets": [
-    "LockBit",
-    "ALPHV",
-    "BlackCat",
-    "ransomware attack",
-    "data breach",
-    "dark web leak"
+    "RipperSec",
+    "RipperSec DDoS",
+    "DDoS attack",
+    "DDoS Malaysia",
+    "MegaMedusa"
   ],
   "max_tweets": 30,
   "create_issue": true,
