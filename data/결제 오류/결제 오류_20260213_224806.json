@@ -1,0 +1,93 @@
+{
+  "username": "결제 오류",
+  "tweets": [
+    {
+      "id": "2015753419026522388",
+      "link": "https://twitter.com/kukuninza/status/2015753419026522388#m",
+      "text": "꒰ঌ 팔로워 (곧) 천명 기념 #rt + #follow 이벤트 ໒꒱ ⋆ﾟ⊹    오류가 있어서 다시 올려요 🥹🥹 어쩌다 보니 이벤트 요정이 되어버린 ...   곧 팔로워 천이기도 하고..  모르고 두개 결제해버린 김에 그냥 이 참에 이벤트 열자! 싶어서 열어료..   사쿠야 홍콩콘 사첵 손민수템 필루미네이트 세미 크롭 후드집업 사이즈 S 입니당 (근데 이제 나랑도 커플 되는 것임)    당발 2월 21일에 할게용   반택비 제가 부담할게용  위즈니만 참여해주세용  다른 이벤트도 하나 있으니 많관부 ^_^ 💚",
+      "user": {
+        "name": "쿠쿠닌",
+        "username": "@kukuninza",
+        "profile_id": "2021603410001461248",
+        "avatar": "/pic/profile_images/2021603410001461248/AKG9bq68_bigger.jpg"
+      },
+      "date": "Jan 26, 2026 · 11:47 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 76,
+        "retweets": 1487,
+        "quotes": 941,
+        "likes": 100405
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022267519025705374",
+      "link": "https://twitter.com/WuBlockchainKR/status/2022267519025705374#m",
+      "text": "WuBlockchain 주간: 홍콩, 세 가지 새로운 가상 자산 조치 발표; 트렌드 리서치, 8억 6900만 달러 손실로 ETH 매도; 런던 증권 거래소 그룹, 온체인 결제 시행 예정; 중국 은행들, 미국 국채 보유량 축소 지시 받음; 빗썸의 620,000 BTC 결제 오류; 고등법원, 60,000 BTC 자금 세탁 사건 심리 예정; …",
+      "user": {
+        "name": "WuBlockchain News Korean",
+        "username": "@WuBlockchainKR",
+        "profile_id": "1832021241936642048",
+        "avatar": "/pic/profile_images/1832021241936642048/TKZ9ta8Q_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 11:12 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 25
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022265799235248313",
+      "link": "https://twitter.com/hhdd616/status/2022265799235248313#m",
+      "text": "ㅅㅂ 레진 왤케 오류가 많아 !결제까지 가서 취소됨.그랴두 70% 하나는 건졌음.",
+      "user": {
+        "name": "야야 음파파 루 라라",
+        "username": "@hhdd616",
+        "profile_id": "2012019996504047616",
+        "avatar": "/pic/profile_images/2012019996504047616/15Ko_Gzj_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 11:05 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 216
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T22:48:06.507460",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 3,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
