@@ -1,0 +1,95 @@
+{
+  "username": "DDoS attack",
+  "tweets": [
+    {
+      "id": "2022209402254848234",
+      "link": "https://twitter.com/NiteshSaxena03/status/2022209402254848234#m",
+      "text": "Deploy it and share the link  Let’s see if your vibe coded shit can survive a DDos attack",
+      "user": {
+        "name": "Nitesh Saxena",
+        "username": "@NiteshSaxena03",
+        "profile_id": "1955512896370212864",
+        "avatar": "/pic/profile_images/1955512896370212864/xGLM6vxY_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 7:21 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@ibuyrugs"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 15
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021245727452676401",
+      "link": "https://twitter.com/ArchiveDotToday/status/2021245727452676401#m",
+      "text": "Investigation into archive.fo reports its CAPTCHA executes a JS routine sending repeated, randomized requests. This is documented as a browser-based DDoS-like attack. 🕵️‍♂️🔧 🔗 invidious.tiekoetter.com/watch?v=iJcCcmVe… #WebSecurity #DDoS #ServerStrain",
+      "user": {
+        "name": "👉 When archive.today Becomes the DDos Attack",
+        "username": "@ArchiveDotToday",
+        "profile_id": "2020364815559192579",
+        "avatar": "/pic/profile_images/2020364815559192579/HhS6lXuy_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 3:31 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "https://invidious.tiekoetter.com/watch?v=iJcCcmVeliM",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 6,
+        "quotes": 6,
+        "likes": 25
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022202578940129361",
+      "link": "https://twitter.com/cyberfeeddigest/status/2022202578940129361#m",
+      "text": "The pro-Russian group #NoName057 targeted the entities from #Japan by #DDOS attack:  ❌Japan Commercial Arbitration Association ❌Naikai Zosen - shipbuilding company  ❌Japan City Mayors Association  ❌Aomori city airport website",
+      "user": {
+        "name": "darkweb-deepwebfeed",
+        "username": "@cyberfeeddigest",
+        "profile_id": "1824322628628205568",
+        "avatar": "/pic/profile_images/1824322628628205568/wfpGMY_G_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 6:54 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 202
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T17:50:26.526682",
+    "instance_used": "https://nitter.tiekoetter.com",
+    "method": "playwright",
+    "tweet_count": 3,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
