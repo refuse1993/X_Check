@@ -1,0 +1,67 @@
+{
+  "username": "접속 안돼",
+  "tweets": [
+    {
+      "id": "2022230323967533278",
+      "link": "https://twitter.com/2sen238/status/2022230323967533278#m",
+      "text": "#최솔  손 큰 최 요원 보고 싶음 작두 드는 인간이 손이 작을 리가. 김솔음 평소에 딱히 체감 못 하고 있었는데   \" 왜 포도 뭐가 안돼~? \"  \" 아뇨 이거 사이트 접속이.. \"  김솔음 모니터만 뚫어져라 보고 있으면 최 요원 마우스 위로 손 겹쳐 잡음.",
+      "user": {
+        "name": "이슨",
+        "username": "@2sen238",
+        "profile_id": "1999771148847112192",
+        "avatar": "/pic/profile_images/1999771148847112192/_XyrFQaQ_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 8:44 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 52,
+        "quotes": 614,
+        "likes": 13960
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022261709583593750",
+      "link": "https://twitter.com/sehnen_loh/status/2022261709583593750#m",
+      "text": "아 맞다 모바일 레이아웃 전혀 작업 안 돼 있습니다 (가로모드 작업 어려움 이슈) 설에 한 번 진행해보려고 하는데 그 전까지는 데스크탑으로 접속해주세요!",
+      "user": {
+        "name": "동경",
+        "username": "@sehnen_loh",
+        "profile_id": "2010131095577341952",
+        "avatar": "/pic/profile_images/2010131095577341952/0Xb1Km85_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 10:48 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 28
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T21:54:42.556371",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 2,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
