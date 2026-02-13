@@ -2,12 +2,23 @@
   "search_mode": "term",
   "targets": [
     "RipperSec",
-    "RipperSec DDoS",
-    "DDoS attack",
-    "DDoS Malaysia",
-    "MegaMedusa"
+    "DDoS Korea",
+    "MegaMedusa",
+    "결제 안됨",
+    "결제 왜 안됨",
+    "결제 오류",
+    "결제 먹통",
+    "송금 안됨",
+    "송금 오류",
+    "이체 안됨",
+    "카드 안됨",
+    "카드 안먹힘",
+    "앱 먹통",
+    "앱 안됨",
+    "접속 안됨",
+    "로그인 안됨"
   ],
-  "max_tweets": 30,
+  "max_tweets": 50,
   "create_issue": true,
   "issue_threshold": 1
 }

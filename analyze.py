@@ -81,9 +81,18 @@ def analyze_with_gpt(tweets: list[dict]) -> dict:
 
     tweets_content = "\n---\n".join(tweet_texts)
 
-    prompt = f"""당신은 사이버 위협 인텔리전스 분석가입니다.
+    prompt = f"""당신은 사이버 위협 인텔리전스 및 금융 서비스 모니터링 분석가입니다.
 
-아래 트윗들을 분석하여 **한국 금융회사/금융기관**과 관련된 위협이 있는지 판단하세요.
+아래 트윗들을 분석하여 **한국 금융회사/금융기관**과 관련된 다음 상황이 있는지 판단하세요:
+1. 사이버 공격 (DDoS, 랜섬웨어, 데이터 유출 등)
+2. 서비스 장애 (앱 오류, 접속 불가, 결제 장애, 송금 안됨 등)
+3. 보안 사고 (해킹, 정보 유출 등)
+
+## 중요 판단 기준:
+- 트윗에서 한국 금융회사/서비스가 **직접 언급**되거나 **명확히 추론 가능**해야 함
+- 단순히 "결제 안됨"만 있고 어떤 서비스인지 불명확하면 제외
+- 게임 결제, 해외 서비스, 쇼핑몰 자체 오류 등은 제외
+- **여러 사람이 동시에 같은 금융사 문제를 언급**하면 실제 장애 가능성 높음
 
 ## 한국 금융 관련 키워드 참고:
 {KOREAN_FINANCIAL_KEYWORDS}
@@ -93,21 +102,22 @@ def analyze_with_gpt(tweets: list[dict]) -> dict:
 
 ## 응답 형식 (JSON):
 {{
-    "relevant": true/false,  // 한국 금융회사 관련 위협이 있으면 true
+    "relevant": true/false,  // 한국 금융회사 관련 이슈가 있으면 true
     "confidence": "high/medium/low",  // 확신도
+    "issue_type": "cyber_attack/service_outage/security_incident/none",
     "summary": "한국어로 2-3문장 요약 (관련 없으면 빈 문자열)",
     "details": [
         {{
             "tweet_index": 1,
-            "company": "관련 회사/기관명",
-            "threat_type": "위협 유형 (DDoS, 데이터유출, 랜섬웨어 등)",
+            "company": "관련 회사/기관명 (예: 카카오뱅크, 토스, 신한카드)",
+            "issue_type": "이슈 유형 (DDoS, 앱장애, 결제오류, 데이터유출 등)",
             "severity": "high/medium/low",
             "summary": "해당 트윗 요약"
         }}
     ]
 }}
 
-한국 금융회사와 직접적인 관련이 없으면 relevant: false로 응답하세요.
+한국 금융회사와 직접적인 관련이 없거나 불명확하면 relevant: false로 응답하세요.
 반드시 유효한 JSON만 출력하세요.
 """
 
