@@ -1,0 +1,67 @@
+{
+  "username": "접속 안돼",
+  "tweets": [
+    {
+      "id": "2022298022810673576",
+      "link": "https://twitter.com/De_Cubes/status/2022298022810673576#m",
+      "text": "그래서 너 언제 될 건데, 나 접속해야 하는데 왜 업데이트가 안돼? 나 은하열차 타야한다고",
+      "user": {
+        "name": "De:Cube(ディーイーキューブ)",
+        "username": "@De_Cubes",
+        "profile_id": "1642272510984216577",
+        "avatar": "/pic/profile_images/1642272510984216577/HzyAPqk3_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 1:13 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 1
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022230323967533278",
+      "link": "https://twitter.com/2sen238/status/2022230323967533278#m",
+      "text": "#최솔  손 큰 최 요원 보고 싶음 작두 드는 인간이 손이 작을 리가. 김솔음 평소에 딱히 체감 못 하고 있었는데   \" 왜 포도 뭐가 안돼~? \"  \" 아뇨 이거 사이트 접속이.. \"  김솔음 모니터만 뚫어져라 보고 있으면 최 요원 마우스 위로 손 겹쳐 잡음.",
+      "user": {
+        "name": "이슨",
+        "username": "@2sen238",
+        "profile_id": "1999771148847112192",
+        "avatar": "/pic/profile_images/1999771148847112192/_XyrFQaQ_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 8:44 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 56,
+        "quotes": 654,
+        "likes": 14546
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T22:13:36.386198",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 2,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}

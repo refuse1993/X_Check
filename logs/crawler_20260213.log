@@ -182,3 +182,66 @@
 [2026-02-13 21:55:26] WARNING  root - Empty page on https://nitter.privacyredirect.com
 [2026-02-13 21:55:39] INFO     __main__ -   ✓ 뱅킹 먹통 완료: 트윗 19개 / 스레드 0개
 [2026-02-13 21:55:39] INFO     __main__ - 작업 완료: 25/25 성공 (370초)
+[2026-02-13 22:08:20] INFO     __main__ - X(트위터) 데이터 수집 시스템 시작
+[2026-02-13 22:08:20] INFO     __main__ - 대상 계정: RipperSec, DDoS Korea, MegaMedusa, 결제 안돼, 결제 안댐, 결제 안대, 결제 왜안돼, 결제 안되네, 결제 오류, 결제 먹통, 송금 안돼, 송금 안댐, 이체 안돼, 이체 안댐, 카드 안돼, 카드 안댐, 카드 안먹혀, 앱 먹통, 앱 안돼, 앱 안열려, 접속 안돼, 접속 안댐, 로그인 안돼, 뱅킹 안돼, 뱅킹 먹통
+[2026-02-13 22:08:20] INFO     __main__ - 크롤링 작업 시작 (25개 계정)
+[2026-02-13 22:08:20] INFO     __main__ - LibRedirect API에서 8개 인스턴스 조회
+[2026-02-13 22:08:23] INFO     __main__ - 활성 인스턴스: 2개
+[2026-02-13 22:08:23] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:08:39] INFO     __main__ -   ✓ RipperSec 완료: 트윗 9개 / 스레드 0개
+[2026-02-13 22:08:39] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:08:53] INFO     __main__ -   ✓ DDoS Korea 완료: 트윗 14개 / 스레드 0개
+[2026-02-13 22:08:54] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:09:08] INFO     __main__ -   ✓ MegaMedusa 완료: 트윗 19개 / 스레드 0개
+[2026-02-13 22:09:08] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:09:22] INFO     __main__ -   ✓ 결제 안돼 완료: 트윗 19개 / 스레드 0개
+[2026-02-13 22:09:22] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:09:36] INFO     __main__ -   ✓ 결제 안댐 완료: 트윗 19개 / 스레드 0개
+[2026-02-13 22:09:37] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:09:50] INFO     __main__ -   ✓ 결제 안대 완료: 트윗 16개 / 스레드 0개
+[2026-02-13 22:09:51] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:10:07] INFO     __main__ -   ✓ 결제 왜안돼 완료: 트윗 18개 / 스레드 0개
+[2026-02-13 22:10:08] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:10:21] INFO     __main__ -   ✓ 결제 안되네 완료: 트윗 20개 / 스레드 0개
+[2026-02-13 22:10:22] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:10:36] INFO     __main__ -   ✓ 결제 오류 완료: 트윗 3개 / 스레드 0개
+[2026-02-13 22:10:36] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:10:50] INFO     __main__ -   ✓ 결제 먹통 완료: 트윗 17개 / 스레드 0개
+[2026-02-13 22:10:51] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:11:05] INFO     __main__ -   ✓ 송금 안돼 완료: 트윗 13개 / 스레드 0개
+[2026-02-13 22:11:05] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:11:19] INFO     __main__ -   ✓ 송금 안댐 완료: 트윗 18개 / 스레드 0개
+[2026-02-13 22:11:19] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:11:35] DEBUG    __main__ - 트윗 파싱 실패: list index out of range
+[2026-02-13 22:11:35] INFO     __main__ -   ✓ 이체 안돼 완료: 트윗 17개 / 스레드 0개
+[2026-02-13 22:11:36] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:11:49] INFO     __main__ -   ✓ 이체 안댐 완료: 트윗 18개 / 스레드 0개
+[2026-02-13 22:11:50] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:12:04] DEBUG    __main__ - 트윗 파싱 실패: list index out of range
+[2026-02-13 22:12:04] DEBUG    __main__ - 트윗 파싱 실패: list index out of range
+[2026-02-13 22:12:04] INFO     __main__ -   ✓ 카드 안돼 완료: 트윗 17개 / 스레드 0개
+[2026-02-13 22:12:04] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:12:20] DEBUG    __main__ - 트윗 파싱 실패: list index out of range
+[2026-02-13 22:12:20] INFO     __main__ -   ✓ 카드 안댐 완료: 트윗 16개 / 스레드 0개
+[2026-02-13 22:12:21] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:12:36] INFO     __main__ -   ✓ 카드 안먹혀 완료: 트윗 20개 / 스레드 0개
+[2026-02-13 22:12:37] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:12:51] DEBUG    __main__ - 트윗 파싱 실패: list index out of range
+[2026-02-13 22:12:51] INFO     __main__ -   ✓ 앱 먹통 완료: 트윗 19개 / 스레드 0개
+[2026-02-13 22:12:51] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:13:05] INFO     __main__ -   ✓ 앱 안돼 완료: 트윗 10개 / 스레드 0개
+[2026-02-13 22:13:06] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:13:22] DEBUG    __main__ - 트윗 파싱 실패: list index out of range
+[2026-02-13 22:13:22] INFO     __main__ -   ✓ 앱 안열려 완료: 트윗 19개 / 스레드 0개
+[2026-02-13 22:13:22] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:13:36] INFO     __main__ -   ✓ 접속 안돼 완료: 트윗 2개 / 스레드 0개
+[2026-02-13 22:13:36] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:13:50] INFO     __main__ -   ✓ 접속 안댐 완료: 트윗 19개 / 스레드 0개
+[2026-02-13 22:13:51] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:14:05] DEBUG    __main__ - 트윗 파싱 실패: list index out of range
+[2026-02-13 22:14:05] INFO     __main__ -   ✓ 로그인 안돼 완료: 트윗 19개 / 스레드 0개
+[2026-02-13 22:14:05] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:14:19] INFO     __main__ -   ✓ 뱅킹 안돼 완료: 트윗 17개 / 스레드 0개
+[2026-02-13 22:14:19] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 22:14:33] INFO     __main__ -   ✓ 뱅킹 먹통 완료: 트윗 19개 / 스레드 0개
+[2026-02-13 22:14:33] INFO     __main__ - 작업 완료: 25/25 성공 (373초)
