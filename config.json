@@ -1,0 +1,14 @@
+{
+  "search_mode": "term",
+  "targets": [
+    "LockBit",
+    "ALPHV",
+    "BlackCat",
+    "ransomware attack",
+    "data breach",
+    "dark web leak"
+  ],
+  "max_tweets": 30,
+  "create_issue": true,
+  "issue_threshold": 1
+}

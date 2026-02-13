@@ -1,0 +1,98 @@
+[2026-02-10 09:09:15] INFO     __main__ - X(트위터) 데이터 수집 시스템 시작
+[2026-02-10 09:09:15] INFO     __main__ - 대상 계정: DarkWebInformer, MonThreat
+[2026-02-10 09:09:15] INFO     __main__ - ============================================================
+[2026-02-10 09:09:15] INFO     __main__ - 크롤링 작업 시작 (대상: DarkWebInformer, MonThreat)
+[2026-02-10 09:09:15] INFO     __main__ - ============================================================
+[2026-02-10 09:09:15] INFO     crawler - Nitter 인스턴스 목록 갱신 중...
+[2026-02-10 09:09:15] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+[2026-02-10 09:09:15] DEBUG    urllib3.connectionpool - https://raw.githubusercontent.com:443 "GET /libredirect/instances/main/data.json HTTP/1.1" 200 6576
+[2026-02-10 09:09:15] INFO     crawler - LibRedirect API에서 8개 인스턴스 조회
+[2026-02-10 09:09:15] INFO     crawler - 총 8개 인스턴스 발견
+[2026-02-10 09:09:15] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): xcancel.com:443
+[2026-02-10 09:09:16] DEBUG    urllib3.connectionpool - https://xcancel.com:443 "GET /x HTTP/1.1" 403 150
+[2026-02-10 09:09:16] DEBUG    crawler -   비활성: https://xcancel.com
+[2026-02-10 09:09:16] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nitter.poast.org:443
+[2026-02-10 09:09:18] DEBUG    urllib3.connectionpool - https://nitter.poast.org:443 "GET /x HTTP/1.1" 503 19973
+[2026-02-10 09:09:18] DEBUG    crawler -   비활성: https://nitter.poast.org
+[2026-02-10 09:09:18] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nitter.privacyredirect.com:443
+[2026-02-10 09:09:19] DEBUG    urllib3.connectionpool - https://nitter.privacyredirect.com:443 "GET /x HTTP/1.1" 200 None
+[2026-02-10 09:09:19] INFO     crawler -   활성: https://nitter.privacyredirect.com (응답: 1.37초)
+[2026-02-10 09:09:19] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): lightbrd.com:443
+[2026-02-10 09:09:21] DEBUG    urllib3.connectionpool - https://lightbrd.com:443 "GET /x HTTP/1.1" 403 None
+[2026-02-10 09:09:21] DEBUG    crawler -   비활성: https://lightbrd.com
+[2026-02-10 09:09:21] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nitter.space:443
+[2026-02-10 09:09:22] DEBUG    urllib3.connectionpool - https://nitter.space:443 "GET /x HTTP/1.1" 403 None
+[2026-02-10 09:09:22] DEBUG    crawler -   비활성: https://nitter.space
+[2026-02-10 09:09:22] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nitter.tiekoetter.com:443
+[2026-02-10 09:09:23] DEBUG    urllib3.connectionpool - https://nitter.tiekoetter.com:443 "GET /x HTTP/1.1" 200 None
+[2026-02-10 09:09:23] INFO     crawler -   활성: https://nitter.tiekoetter.com (응답: 1.07초)
+[2026-02-10 09:09:23] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nuku.trabun.org:443
+[2026-02-10 09:09:25] DEBUG    urllib3.connectionpool - https://nuku.trabun.org:443 "GET /x HTTP/1.1" 403 None
+[2026-02-10 09:09:25] DEBUG    crawler -   비활성: https://nuku.trabun.org
+[2026-02-10 09:09:25] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nitter.catsarch.com:443
+[2026-02-10 09:09:25] DEBUG    urllib3.connectionpool - https://nitter.catsarch.com:443 "GET /x HTTP/1.1" 403 None
+[2026-02-10 09:09:25] DEBUG    crawler -   비활성: https://nitter.catsarch.com
+[2026-02-10 09:09:25] INFO     crawler - 활성 인스턴스 2개 확인
+[2026-02-10 09:09:25] INFO     __main__ - ----------------------------------------
+[2026-02-10 09:09:25] INFO     __main__ - 계정 'DarkWebInformer' 크롤링 중...
+[2026-02-10 09:09:25] INFO     crawler - 'DarkWebInformer' 크롤링 시작 (인스턴스 2개)
+[2026-02-10 09:09:25] INFO     crawler -   [1/2] https://nitter.tiekoetter.com 시도 중...
+[2026-02-10 09:09:28] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-10 09:09:30] WARNING  crawler -     ntscraper 빈 결과 - Playwright 검색 모드로 폴백
+[2026-02-10 09:09:53] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-10 09:09:55] WARNING  crawler -     ntscraper 빈 결과 - Playwright 검색 모드로 폴백
+[2026-02-10 09:12:23] INFO     __main__ - X(트위터) 데이터 수집 시스템 시작
+[2026-02-10 09:12:23] INFO     __main__ - 대상 계정: HalcyonAi, DarkWebInformer, MonThreat, DailyDarkWeb, FalconFeedsio, H4ckManac
+[2026-02-10 09:12:23] INFO     __main__ - 스케줄러 모드: 12.00시간 간격
+[2026-02-10 09:12:23] DEBUG    tzlocal - Looking up time zone info from registry
+[2026-02-10 09:12:23] INFO     __main__ - 스케줄러 시작: 12.00시간 간격으로 실행
+[2026-02-10 09:12:23] INFO     __main__ - 초기 실행 시작...
+[2026-02-10 09:12:23] INFO     __main__ - ============================================================
+[2026-02-10 09:12:23] INFO     __main__ - 크롤링 작업 시작 (대상: HalcyonAi, DarkWebInformer, MonThreat, DailyDarkWeb, FalconFeedsio, H4ckManac)
+[2026-02-10 09:12:23] INFO     __main__ - ============================================================
+[2026-02-10 09:12:23] INFO     crawler - Nitter 인스턴스 목록 갱신 중...
+[2026-02-10 09:12:23] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+[2026-02-10 09:12:24] DEBUG    urllib3.connectionpool - https://raw.githubusercontent.com:443 "GET /libredirect/instances/main/data.json HTTP/1.1" 200 6576
+[2026-02-10 09:12:24] INFO     crawler - LibRedirect API에서 8개 인스턴스 조회
+[2026-02-10 09:12:24] INFO     crawler - 총 8개 인스턴스 발견
+[2026-02-10 09:12:24] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): xcancel.com:443
+[2026-02-10 09:12:25] DEBUG    urllib3.connectionpool - https://xcancel.com:443 "GET /x HTTP/1.1" 403 150
+[2026-02-10 09:12:25] DEBUG    crawler -   비활성: https://xcancel.com
+[2026-02-10 09:12:25] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nitter.poast.org:443
+[2026-02-10 09:12:27] DEBUG    urllib3.connectionpool - https://nitter.poast.org:443 "GET /x HTTP/1.1" 503 19973
+[2026-02-10 09:12:27] DEBUG    crawler -   비활성: https://nitter.poast.org
+[2026-02-10 09:12:27] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nitter.privacyredirect.com:443
+[2026-02-10 09:12:30] DEBUG    urllib3.connectionpool - https://nitter.privacyredirect.com:443 "GET /x HTTP/1.1" 200 None
+[2026-02-10 09:12:30] INFO     crawler -   활성: https://nitter.privacyredirect.com (응답: 2.96초)
+[2026-02-10 09:12:30] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): lightbrd.com:443
+[2026-02-10 09:12:31] DEBUG    urllib3.connectionpool - https://lightbrd.com:443 "GET /x HTTP/1.1" 403 None
+[2026-02-10 09:12:31] DEBUG    crawler -   비활성: https://lightbrd.com
+[2026-02-10 09:12:31] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nitter.space:443
+[2026-02-10 09:12:31] DEBUG    urllib3.connectionpool - https://nitter.space:443 "GET /x HTTP/1.1" 403 None
+[2026-02-10 09:12:31] DEBUG    crawler -   비활성: https://nitter.space
+[2026-02-10 09:12:31] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nitter.tiekoetter.com:443
+[2026-02-10 09:12:32] DEBUG    urllib3.connectionpool - https://nitter.tiekoetter.com:443 "GET /x HTTP/1.1" 200 None
+[2026-02-10 09:12:32] INFO     crawler -   활성: https://nitter.tiekoetter.com (응답: 1.07초)
+[2026-02-10 09:12:32] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nuku.trabun.org:443
+[2026-02-10 09:12:33] DEBUG    urllib3.connectionpool - https://nuku.trabun.org:443 "GET /x HTTP/1.1" 403 None
+[2026-02-10 09:12:33] DEBUG    crawler -   비활성: https://nuku.trabun.org
+[2026-02-10 09:12:33] DEBUG    urllib3.connectionpool - Starting new HTTPS connection (1): nitter.catsarch.com:443
+[2026-02-10 09:12:35] DEBUG    urllib3.connectionpool - https://nitter.catsarch.com:443 "GET /x HTTP/1.1" 403 None
+[2026-02-10 09:12:35] DEBUG    crawler -   비활성: https://nitter.catsarch.com
+[2026-02-10 09:12:35] INFO     crawler - 활성 인스턴스 2개 확인
+[2026-02-10 09:12:35] INFO     __main__ - ----------------------------------------
+[2026-02-10 09:12:35] INFO     __main__ - 계정 'HalcyonAi' 크롤링 중...
+[2026-02-10 09:12:35] INFO     crawler - 'HalcyonAi' 크롤링 시작 (인스턴스 2개)
+[2026-02-10 09:12:35] INFO     crawler -   [1/2] https://nitter.tiekoetter.com 시도 중...
+[2026-02-10 09:12:37] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-10 09:12:39] WARNING  crawler -     ntscraper 빈 결과 - Playwright 검색 모드로 폴백
+[2026-02-10 09:12:54] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-10 09:12:56] WARNING  crawler -     ntscraper 빈 결과 - Playwright 검색 모드로 폴백
+[2026-02-10 09:13:11] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-10 09:13:13] WARNING  crawler -     ntscraper 빈 결과 - Playwright 검색 모드로 폴백
+[2026-02-10 09:13:28] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-10 09:13:30] WARNING  crawler -     ntscraper 빈 결과 - Playwright 검색 모드로 폴백
+[2026-02-10 09:13:45] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-10 09:13:47] WARNING  crawler -     ntscraper 빈 결과 - Playwright 검색 모드로 폴백
+[2026-02-10 09:14:03] WARNING  root - Empty page on https://nitter.tiekoetter.com
+[2026-02-10 09:14:05] WARNING  crawler -     ntscraper 빈 결과 - Playwright 검색 모드로 폴백

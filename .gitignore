@@ -1,5 +1,6 @@
-data/
-logs/
+# 로컬 개발용 (Actions에서는 커밋됨)
+# data/
+# logs/
 .env
 __pycache__/
 *.pyc

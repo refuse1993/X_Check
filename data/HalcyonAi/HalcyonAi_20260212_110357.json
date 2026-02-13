@@ -1,0 +1,389 @@
+{
+  "username": "HalcyonAi",
+  "tweets": [
+    {
+      "id": "2021699544681992361",
+      "link": "https://twitter.com/HalcyonAi/status/2021699544681992361#m",
+      "text": "You don’t learn #ransomware resilience from dashboards - you learn it from incidents.  That’s why Halcyon and @BoozAllen are hosting a real-world conversation about how modern ransomware attacks actually unfold - from initial access to recovery - and what organizations learn when controls fail and business risk escalates fast.  No theory. Just lessons from the front lines.  Save your spot: bit.ly/4ajR6rs #CISO #cybersecurity",
+      "user": {
+        "name": "HalcyonAI",
+        "username": "@HalcyonAi",
+        "profile_id": "1844123275133386752",
+        "avatar": "/pic/profile_images/1844123275133386752/7v-d9Prc_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 9:35 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 0,
+        "likes": 22
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021686431429611539",
+      "link": "https://twitter.com/HalcyonAi/status/2021686431429611539#m",
+      "text": "#Ransomware doesn’t take holidays off. December set a record with 727 attacks in a single month.  #LockBit returned, new threat actors emerged, and organizations were hit when response capacity was lowest.  Get the full lowdown on the blog. #cybersecurity #ThreatIntel bit.ly/40934y8",
+      "user": {
+        "name": "HalcyonAI",
+        "username": "@HalcyonAi",
+        "profile_id": "1844123275133386752",
+        "avatar": "/pic/profile_images/1844123275133386752/7v-d9Prc_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 8:43 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 0,
+        "likes": 39
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021322903178944989",
+      "link": "https://twitter.com/HalcyonAi/status/2021322903178944989#m",
+      "text": "🚨 A new #ransomware actor is live. And it’s not just noise.  Halcyon researchers confirm #0Apt is operating a real ransomware-as-a-service platform with functional Windows and Linux payloads and active leak-site infrastructure.  New actor. Real capability. Growing risk.   Learn more: bit.ly/4clgiPG #ThreatIntel",
+      "user": {
+        "name": "HalcyonAI",
+        "username": "@HalcyonAi",
+        "profile_id": "1844123275133386752",
+        "avatar": "/pic/profile_images/1844123275133386752/7v-d9Prc_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 8:38 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 2,
+        "quotes": 4,
+        "likes": 2538
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021666745640267885",
+      "link": "https://twitter.com/jc_vazquez/status/2021666745640267885#m",
+      "text": "Los ataques de #ransomware alcanzan niveles máximos durante el periodo vacacional de diciembre de 2025.  halcyon.ai/blog/ransomware-a…  vía @HalcyonAi.  #news #cybersecurity #infosec",
+      "user": {
+        "name": "Juan Carlos Vázquez ",
+        "username": "@jc_vazquez",
+        "profile_id": "1148403905039962113",
+        "avatar": "/pic/profile_images/1148403905039962113/b4s9moLH_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 7:24 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 0,
+        "likes": 36
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021669574244974733",
+      "link": "https://twitter.com/HalcyonAi/status/2021669574244974733#m",
+      "text": "#Malware is the tool. #Ransomware is the business.  Modern ransomware isn’t just code = it’s an organized extortion model built to disrupt operations and pressure leaders.  Prevention alone won’t stop it. Resilience will.  Read the primer. bit.ly/46MBzOG",
+      "user": {
+        "name": "HalcyonAI",
+        "username": "@HalcyonAi",
+        "profile_id": "1844123275133386752",
+        "avatar": "/pic/profile_images/1844123275133386752/7v-d9Prc_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 7:36 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 1,
+        "likes": 57
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021655124981297166",
+      "link": "https://twitter.com/blackroomsec/status/2021655124981297166#m",
+      "text": "Maybe, and just hear me out, maybe we hire these guys and pay them to fix and secure all the stuff our bosses tell us there's no budget to fix.   Pros:   Pentest included (sans van) Atomics testing built-in  Team- building exercise to fix our antisocial behaviors (bye old frens, hello new frens!😜) We get virgin samples of the weaponized payloads and Ransomware They probably won't end a Zoom call with us We get free intel into their ops and attack infra  Cons:   There's no downsides. C'mon. We're already in Hell.",
+      "user": {
+        "name": "BlackRoomSec",
+        "username": "@blackroomsec",
+        "profile_id": "825197271494991873",
+        "avatar": "/pic/profile_images/825197271494991873/dBkiICVG_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 6:38 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 2,
+        "retweets": 1,
+        "quotes": 13,
+        "likes": 1321
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021663410493296955",
+      "link": "https://twitter.com/DecryptedTech/status/2021663410493296955#m",
+      "text": "When even the bad guys get it wrong...",
+      "user": {
+        "name": "Bits, Bytes, and Bourbon",
+        "username": "@DecryptedTech",
+        "profile_id": "1767231303726792704",
+        "avatar": "/pic/profile_images/1767231303726792704/Ki79_IE1_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 7:11 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 43
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021662387204436141",
+      "link": "https://twitter.com/HalcyonAi/status/2021662387204436141#m",
+      "text": "Attackers broke their own ransomware. Victims paid anyway - and still couldn’t decrypt.  Halcyon recovered the files.  A critical bug in #Sicarii’s encryptor locked everyone out - except defenders with key-capture resilience.  This is why paying ransom ≠ recovery.  👇 Full breakdown. #ransomware #cybersecurity bit.ly/4626HcV",
+      "user": {
+        "name": "HalcyonAI",
+        "username": "@HalcyonAi",
+        "profile_id": "1844123275133386752",
+        "avatar": "/pic/profile_images/1844123275133386752/7v-d9Prc_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 7:07 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 1,
+        "likes": 93
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021325780693778588",
+      "link": "https://twitter.com/DecryptedTech/status/2021325780693778588#m",
+      "text": "Nothing like a new Ransomware operator to make your Tuesday",
+      "user": {
+        "name": "Bits, Bytes, and Bourbon",
+        "username": "@DecryptedTech",
+        "profile_id": "1767231303726792704",
+        "avatar": "/pic/profile_images/1767231303726792704/Ki79_IE1_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 8:49 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 1,
+        "quotes": 9,
+        "likes": 572
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021352855614161132",
+      "link": "https://twitter.com/MrRightQuestion/status/2021352855614161132#m",
+      "text": "1/8 🚨 A ransomware narrative worth slowing down on.  #Sinobi #RaaS claims a breach tied to “Halcyontek”, while prominently using \"HalcyonAI\" branding in its leak presentation.  This deserves a closer look.",
+      "user": {
+        "name": "Pr0meth3us🔥",
+        "username": "@MrRightQuestion",
+        "profile_id": "1937231000452452352",
+        "avatar": "/pic/profile_images/1937231000452452352/CmoHCzFI_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 10:37 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 78
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021338910178345395",
+      "link": "https://twitter.com/I0I0II0I0I/status/2021338910178345395#m",
+      "text": "thanks for clarification and quick response, much appreciated🙏",
+      "user": {
+        "name": "Tony Thomas",
+        "username": "@I0I0II0I0I",
+        "profile_id": "1575267395186425857",
+        "avatar": "/pic/profile_images/1575267395186425857/P85_FQ4p_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 9:42 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@HalcyonAi",
+        "@DarkWebIntelBot",
+        "@halcyon_tek1"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 26
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021338326264054208",
+      "link": "https://twitter.com/HalcyonAi/status/2021338326264054208#m",
+      "text": "It’s not us. We looked at the leak info and it’s some other similar named company, they just mixed up the logo and company info.",
+      "user": {
+        "name": "HalcyonAI",
+        "username": "@HalcyonAi",
+        "profile_id": "1844123275133386752",
+        "avatar": "/pic/profile_images/1844123275133386752/7v-d9Prc_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 9:39 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@I0I0II0I0I",
+        "@DarkWebIntelBot",
+        "@halcyon_tek1"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 38
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021333260643729633",
+      "link": "https://twitter.com/jc_vazquez/status/2021333260643729633#m",
+      "text": "Tal vez \"bluff\" en el número de víctimas que publicaron, pero no en sus capacidades.  @HalcyonAi ha documentado a detalle las capacidades de este operador reciente de ransomware.",
+      "user": {
+        "name": "Juan Carlos Vázquez ",
+        "username": "@jc_vazquez",
+        "profile_id": "1148403905039962113",
+        "avatar": "/pic/profile_images/1148403905039962113/b4s9moLH_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 9:19 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 261
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021311088927617461",
+      "link": "https://twitter.com/I0I0II0I0I/status/2021311088927617461#m",
+      "text": "@HalcyonAi @halcyon_tek1  Any idea which entity is affected?",
+      "user": {
+        "name": "Tony Thomas",
+        "username": "@I0I0II0I0I",
+        "profile_id": "1575267395186425857",
+        "avatar": "/pic/profile_images/1575267395186425857/P85_FQ4p_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 7:51 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@DarkWebIntelBot"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 47
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-12T11:03:57.610681",
+    "instance_used": "https://nitter.tiekoetter.com",
+    "method": "playwright",
+    "tweet_count": 14,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}

@@ -1,0 +1,98 @@
+name: X Threat Intelligence Crawler
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 매시간 정각
+  push:
+    paths:
+      - 'config.json'    # 설정 파일 변경 시 즉시 실행
+  workflow_dispatch:      # 수동 실행
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Load config
+        id: config
+        run: |
+          echo "SEARCH_MODE=$(jq -r '.search_mode' config.json)" >> $GITHUB_OUTPUT
+          echo "TARGETS=$(jq -r '.targets | join(",")' config.json)" >> $GITHUB_OUTPUT
+          echo "MAX_TWEETS=$(jq -r '.max_tweets' config.json)" >> $GITHUB_OUTPUT
+          echo "CREATE_ISSUE=$(jq -r '.create_issue' config.json)" >> $GITHUB_OUTPUT
+          echo "ISSUE_THRESHOLD=$(jq -r '.issue_threshold' config.json)" >> $GITHUB_OUTPUT
+
+      - name: Run crawler
+        env:
+          SEARCH_MODE: ${{ steps.config.outputs.SEARCH_MODE }}
+          TARGET_ACCOUNTS: ${{ steps.config.outputs.TARGETS }}
+          MAX_TWEETS: ${{ steps.config.outputs.MAX_TWEETS }}
+        run: python x_crawler.py --once
+
+      - name: Commit results
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ logs/
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "🤖 데이터 수집: $(date +'%Y-%m-%d %H:%M KST')"
+            git push
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Analyze and create issue
+        if: steps.config.outputs.CREATE_ISSUE == 'true' && steps.commit.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THRESHOLD: ${{ steps.config.outputs.ISSUE_THRESHOLD }}
+        run: |
+          # 최신 수집 파일들 분석
+          TOTAL_TWEETS=0
+          SUMMARY=""
+
+          for dir in data/*/; do
+            LATEST=$(ls -t "${dir}"*.json 2>/dev/null | head -1)
+            if [ -n "$LATEST" ]; then
+              KEYWORD=$(basename "$dir")
+              COUNT=$(jq '.tweets | length' "$LATEST" 2>/dev/null || echo 0)
+              TOTAL_TWEETS=$((TOTAL_TWEETS + COUNT))
+
+              if [ "$COUNT" -gt 0 ]; then
+                SUMMARY="${SUMMARY}\n### 🔍 ${KEYWORD} (${COUNT}건)\n"
+                SUMMARY="${SUMMARY}$(jq -r '.tweets[:3][] | "- **@\(.user.username)**: \(.text[:120] | gsub("\n"; " "))..."' "$LATEST" 2>/dev/null || echo "")\n"
+              fi
+            fi
+          done
+
+          # 임계값 이상이면 Issue 생성
+          if [ "$TOTAL_TWEETS" -ge "$THRESHOLD" ]; then
+            BODY=$(printf "## 🚨 위협 인텔리전스 수집 결과\n\n**수집 시간**: $(date +'%Y-%m-%d %H:%M KST')\n**총 트윗**: ${TOTAL_TWEETS}건\n\n${SUMMARY}\n\n---\n_자동 생성된 리포트입니다._")
+
+            gh issue create \
+              --title "🚨 위협 감지 리포트: $(date +'%Y-%m-%d %H:%M')" \
+              --body "$BODY" \
+              --label "threat-intel,automated"
+          fi

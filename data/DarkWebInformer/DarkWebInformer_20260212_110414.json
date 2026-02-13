@@ -1,0 +1,384 @@
+{
+  "username": "DarkWebInformer",
+  "tweets": [
+    {
+      "id": "2021677534027395220",
+      "link": "https://twitter.com/DarkWebInformer/status/2021677534027395220#m",
+      "text": "‼️ Dutch Police Arrest Third Suspect in JokerOTP Cybercrime Investigation  politie.nl/nieuws/2026/febru…  On 10 February 2026, Dutch police arrested a 21-year-old man from Dordrecht as part of an ongoing cybercrime investigation led by Team Cybercrime East Brabant, marking the third arrest in the case.  The suspect is accused of selling the so-called “JokerOTP” bot via a Telegram account and possessing license keys for the software, which was allegedly used by criminals to intercept one-time passwords (OTPs).  Earlier arrests in April and August 2025 targeted the developer and co-developer of the tool. According to authorities, the bot enabled attackers to automate phone calls to victims, impersonate legitimate organizations, and trick individuals into entering temporary authentication codes, allowing criminals to bypass two-factor authentication and compromise accounts.  Police say dozens of Dutch buyers of the tool have been identified and may face prosecution, emphasizing that purchasing or knowingly using software designed for fraud can itself constitute a criminal offense.",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 8:07 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 7,
+        "quotes": 30,
+        "likes": 3493
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021333819828339185",
+      "link": "https://twitter.com/DarkWebInformer/status/2021333819828339185#m",
+      "text": "Ashok: A OSINT Recon Tool  GitHub: github.com/powerexploit/Asho…  Features:  ▪️Wayback Crawler Machine ▪️Google Dorking without limits ▪️Github Information Grabbing ▪️Subdomain Identifier  ▪️Cms/Technology Detector With Custom Headers",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 9:21 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 61,
+        "quotes": 414,
+        "likes": 19885
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021617484315644033",
+      "link": "https://twitter.com/DarkWebInformer/status/2021617484315644033#m",
+      "text": "‼️🇲🇽 A data set allegedly from Mi Plataforma Escolar, a Mexican educational platform, has been posted with 186,000 records.  The data includes full names, dates of birth, gender, CURP (Mexican national ID numbers), postal codes, states, cities, marital status, housing details, years of residence, phone numbers, addresses, employer information, salary data, client relationship references, and service numbers.  Sample records show individuals from Puebla and San Gabriel Chilac.",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 4:09 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 11,
+        "quotes": 45,
+        "likes": 4236
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021615670085996776",
+      "link": "https://twitter.com/DarkWebInformer/status/2021615670085996776#m",
+      "text": "❗️🇫🇷 Admin access to a French WordPress e-commerce store with an iframe payment capture is being auctioned.  The site processed 1,900 orders in February with €42,312 in revenue and an average order value of €21.99. The auction starts at $1,500 with a blitz price of $4,000.",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 4:01 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 5,
+        "quotes": 18,
+        "likes": 3542
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021686006760477062",
+      "link": "https://twitter.com/DarkWebInformer/status/2021686006760477062#m",
+      "text": "YouTube appears to be down, at least for some of us. 😭",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 8:41 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 3,
+        "retweets": 5,
+        "quotes": 16,
+        "likes": 5665
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021744715125633326",
+      "link": "https://twitter.com/FfddcGgd85501/status/2021744715125633326#m",
+      "text": "😉😉",
+      "user": {
+        "name": "Ggd Ffddc",
+        "username": "@FfddcGgd85501",
+        "profile_id": "1951182219072114689",
+        "avatar": "/pic/profile_images/1951182219072114689/MQam8V5q_bigger.png"
+      },
+      "date": "Feb 12, 2026 · 12:34 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@DarkWebInformer"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 5
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021622087828279801",
+      "link": "https://twitter.com/DarkWebInformer/status/2021622087828279801#m",
+      "text": "1/3‼️🇲🇦 Domain admin access to a Moroccan manufacturing company with ~$20M in revenue is being auctioned.  The listing specifies Sophos VPN with Trend Micro antivirus. Auction starts at $1,500 with a blitz price of $3,500.",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 4:27 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 4,
+        "quotes": 16,
+        "likes": 2641
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021638989107642810",
+      "link": "https://twitter.com/DarkWebInformer/status/2021638989107642810#m",
+      "text": "Augustus: A Go-based LLM vulnerability scanner. It tests large language models against a wide range of adversarial attacks, integrates with 28 LLM providers, & produces actionable vulnerability reports.  GitHub: github.com/praetorian-inc/au…  Released: Feb 6th, 2026",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 5:34 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 7,
+        "quotes": 22,
+        "likes": 2295
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021648292627550220",
+      "link": "https://twitter.com/DarkWebInformer/status/2021648292627550220#m",
+      "text": "‼️ CVE-2024-27564: OpenAI ChatGPT Server-Side Request Forgery  PoC: github.com/chsxthwik/CVE-202…  Vulnerable Parameter : pictureproxy.php?url=payload  A vulnerability in pictureproxy.php allows remote attackers to perform arbitrary requests by injecting URLs into the url parameter. This SSRF vulnerability can be exploited without authentication.",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 6:11 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 2,
+        "retweets": 7,
+        "quotes": 28,
+        "likes": 2884
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021735765470790126",
+      "link": "https://twitter.com/Domhmhm/status/2021735765470790126#m",
+      "text": "Open the video in a private tab :)",
+      "user": {
+        "name": "dom",
+        "username": "@Domhmhm",
+        "profile_id": "1915445545453154304",
+        "avatar": "/pic/profile_images/1915445545453154304/IsGW0Wjz_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 11:59 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@Niko_Dragovich",
+        "@DarkWebInformer"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 2
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021735326784356589",
+      "link": "https://twitter.com/CydexSecurity/status/2021735326784356589#m",
+      "text": "#Cybersecurity",
+      "user": {
+        "name": "CYDEX Security",
+        "username": "@CydexSecurity",
+        "profile_id": "1520534691685834755",
+        "avatar": "/pic/profile_images/1520534691685834755/7OGIth6k_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 11:57 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 4
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021730355141579212",
+      "link": "https://twitter.com/DarkWebInformer/status/2021730355141579212#m",
+      "text": "$1,000 Bug Bounty 2FA bypass due to CSRF misconfiguration POC on demo website  Writeup: medium.com/@sharp488/2fa-byp…",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 11:37 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 2,
+        "retweets": 1,
+        "quotes": 8,
+        "likes": 1121
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021730357180268638",
+      "link": "https://twitter.com/DarkWebInformer/status/2021730357180268638#m",
+      "text": "Video Credit: invidious.tiekoetter.com/@kaikolam Video Date: August 2nd, 2025",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 11:37 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "http://invidious.tiekoetter.com/@kaikolam",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 1351
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2020913741320085594",
+      "link": "https://twitter.com/DarkWebInformer/status/2020913741320085594#m",
+      "text": "nmapUnleashed: A modern CLI wrapper for Nmap, designed to make network scanning more comfortable and effective.  GitHub: github.com/Sharkeonix/nmap-u…  Released: Jan 31, 2026",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 9, 2026 · 5:32 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 3,
+        "retweets": 60,
+        "quotes": 415,
+        "likes": 22891
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-12T11:04:14.451066",
+    "instance_used": "https://nitter.tiekoetter.com",
+    "method": "playwright",
+    "tweet_count": 14,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
