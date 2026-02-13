@@ -14,7 +14,6 @@ import requests
 
 # 설정
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-MATTERMOST_WEBHOOK = os.getenv("MATTERMOST_WEBHOOK")
 DATA_DIR = Path(os.getenv("DATA_DIR", "data"))
 TARGETS = os.getenv("TARGETS", "").split(",")
 
@@ -161,11 +160,14 @@ def analyze_with_gpt(tweets: list[dict]) -> dict:
         return {"relevant": False, "summary": "", "details": []}
 
 
-def send_mattermost(analysis: dict, tweets: list[dict]) -> bool:
-    """분석 결과를 Mattermost로 발송"""
+def create_gpt_issue(analysis: dict, tweets: list[dict]) -> bool:
+    """GPT 분석 결과를 GitHub Issue로 생성"""
 
-    if not MATTERMOST_WEBHOOK:
-        print("MATTERMOST_WEBHOOK 미설정")
+    gh_token = os.getenv("GH_TOKEN")
+    gh_repo = os.getenv("GITHUB_REPOSITORY")
+
+    if not gh_token or not gh_repo:
+        print("GH_TOKEN 또는 GITHUB_REPOSITORY 미설정")
         return False
 
     now = datetime.now().strftime("%Y-%m-%d %H:%M KST")
@@ -177,25 +179,35 @@ def send_mattermost(analysis: dict, tweets: list[dict]) -> bool:
         'none': '정보'
     }.get(issue_type, issue_type)
 
-    # 메시지 구성
-    message = f"""### 🚨 한국 금융권 위협 감지
+    # 제목 생성
+    companies = list(set(d.get('company', '') for d in analysis.get('details', []) if d.get('company')))
+    company_str = ', '.join(companies[:3]) if companies else '금융권'
+    title = f"🤖 [GPT 분석] {issue_type_kr} - {company_str} ({now})"
+
+    # 본문 구성
+    body = f"""## 🤖 GPT 위협 인텔리전스 분석 결과
 
 | 항목 | 내용 |
 |------|------|
-| 탐지 시간 | {now} |
+| 분석 시간 | {now} |
 | 이슈 유형 | {issue_type_kr} |
-| 확신도 | {analysis.get('confidence', 'N/A')} |
+| 확신도 | **{analysis.get('confidence', 'N/A')}** |
 
-#### 📋 GPT 분석 요약
-{analysis.get('summary', 'N/A')}
+---
+
+## 📋 GPT 분석 요약
+
+{analysis.get('summary', '요약 없음')}
+
+---
+
+## 🔍 관련 트윗 상세 정보
 
 """
 
-    # 상세 내용 추가 (관련 트윗 전체 정보)
     details = analysis.get("details", [])
     if details:
-        message += "---\n#### 🔍 관련 트윗 상세 정보\n\n"
-        for detail in details[:10]:  # 최대 10개
+        for detail in details[:10]:
             idx = detail.get("tweet_index", 0)
             if idx > 0 and idx <= len(tweets):
                 tweet = tweets[idx - 1]
@@ -208,46 +220,60 @@ def send_mattermost(analysis: dict, tweets: list[dict]) -> bool:
                 severity = detail.get("severity", "N/A")
                 detail_issue = detail.get("issue_type", "N/A")
 
-                # 심각도 이모지
                 severity_emoji = {"high": "🔴", "medium": "🟠", "low": "🟡"}.get(severity, "⚪")
 
-                message += f"""**{severity_emoji} {company}** - {detail_issue}
+                body += f"""<details>
+<summary>{severity_emoji} <b>{company}</b> - {detail_issue} (심각도: {severity})</summary>
 
 | 항목 | 내용 |
 |------|------|
 | 작성자 | @{username} |
 | 작성 시간 | {tweet_date} |
 | 검색 키워드 | `{keyword}` |
-| 심각도 | {severity} |
 
 **트윗 전문:**
 > {text}
 
-🔗 **[원본 트윗 보기]({link})**
+🔗 [원본 트윗 보기]({link})
 
----
+</details>
 
 """
+    else:
+        body += "_상세 정보 없음_\n"
 
-    message += f"\n📌 [GitHub Issues에서 전체 보기](https://github.com/{os.getenv('GITHUB_REPOSITORY', '')}/issues)"
+    body += """
+---
+
+> 🤖 _이 이슈는 GPT-4o-mini가 자동 분석하여 생성했습니다._
+"""
 
     try:
         response = requests.post(
-            MATTERMOST_WEBHOOK,
-            json={"text": message},
-            headers={"Content-Type": "application/json"},
+            f"https://api.github.com/repos/{gh_repo}/issues",
+            headers={
+                "Authorization": f"Bearer {gh_token}",
+                "Accept": "application/vnd.github+json",
+                "X-GitHub-Api-Version": "2022-11-28"
+            },
+            json={
+                "title": title,
+                "body": body,
+                "labels": ["gpt-analysis", "threat-intel"]
+            },
             timeout=30
         )
 
         if response.status_code in [200, 201]:
-            print("Mattermost 발송 성공")
+            issue_url = response.json().get("html_url", "")
+            print(f"GPT 분석 Issue 생성 성공: {issue_url}")
             return True
         else:
-            print(f"Mattermost 발송 실패: {response.status_code} - {response.text}")
+            print(f"Issue 생성 실패: {response.status_code} - {response.text}")
             return False
 
     except Exception as e:
-        print(f"Mattermost 발송 오류: {e}")
+        print(f"Issue 생성 오류: {e}")
         return False
 
 
@@ -275,17 +301,14 @@ def main():
 
     print(f"📊 분석 결과: relevant={analysis.get('relevant')}, confidence={analysis.get('confidence')}")
 
-    # 관련 있으면 Mattermost 발송
+    # 관련 있으면 GitHub Issue 생성
     if analysis.get("relevant"):
         print("🚨 한국 금융권 관련 위협 감지!")
         print(f"   요약: {analysis.get('summary')}")
 
-        if MATTERMOST_WEBHOOK:
-            send_mattermost(analysis, tweets)
-        else:
-            print("⚠️ MATTERMOST_WEBHOOK 미설정 - 발송 스킵")
+        create_gpt_issue(analysis, tweets)
     else:
-        print("✅ 한국 금융권 관련 위협 없음 - 발송 스킵")
+        print("✅ 한국 금융권 관련 위협 없음 - Issue 생성 스킵")
 
     # 결과 저장 (로그용)
     result_file = DATA_DIR / f"_analysis_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
