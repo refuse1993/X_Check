@@ -71,24 +71,32 @@ jobs:
           MATTERMOST_WEBHOOK: ${{ secrets.MATTERMOST_WEBHOOK }}
           THRESHOLD: ${{ steps.config.outputs.ISSUE_THRESHOLD }}
           CREATE_ISSUE: ${{ steps.config.outputs.CREATE_ISSUE }}
+          TARGETS: ${{ steps.config.outputs.TARGETS }}
         run: |
-          # 최신 수집 파일들 분석
+          # config.json의 타겟만 분석
           TOTAL_TWEETS=0
           REPORT_TEXT=""
+          TABLE_ROWS=""
 
-          for dir in data/*/; do
-            LATEST=$(ls -t "${dir}"*.json 2>/dev/null | head -1)
-            if [ -n "$LATEST" ]; then
-              KEYWORD=$(basename "$dir")
-              COUNT=$(jq '.tweets | length' "$LATEST" 2>/dev/null || echo 0)
+          IFS=',' read -ra TARGET_ARRAY <<< "$TARGETS"
 
-              if [ "$COUNT" -gt 0 ]; then
-                TOTAL_TWEETS=$((TOTAL_TWEETS + COUNT))
-                REPORT_TEXT="${REPORT_TEXT}### ${KEYWORD} (${COUNT}건)\n"
+          for KEYWORD in "${TARGET_ARRAY[@]}"; do
+            DIR="data/${KEYWORD}"
+            if [ -d "$DIR" ]; then
+              LATEST=$(ls -t "${DIR}"/*.json 2>/dev/null | head -1)
+              if [ -n "$LATEST" ]; then
+                COUNT=$(jq '.tweets | length' "$LATEST" 2>/dev/null || echo 0)
 
-                # 상위 3개 트윗 요약
-                TWEETS=$(jq -r '.tweets[:3][] | "- @\(.user.username): \(.text[:80] | gsub("\n"; " ") | gsub("\""; ""))"' "$LATEST" 2>/dev/null || echo "")
-                REPORT_TEXT="${REPORT_TEXT}${TWEETS}\n\n"
+                if [ "$COUNT" -gt 0 ]; then
+                  TOTAL_TWEETS=$((TOTAL_TWEETS + COUNT))
+                  TABLE_ROWS="${TABLE_ROWS}| 🔍 **${KEYWORD}** | ${COUNT}건 |\n"
+
+                  REPORT_TEXT="${REPORT_TEXT}<details>\n<summary>🔍 <b>${KEYWORD}</b> (${COUNT}건)</summary>\n\n"
+
+                  # 상위 5개 트윗
+                  TWEETS=$(jq -r '.tweets[:5][] | "| @\(.user.username) | \(.text[:100] | gsub("\n"; " ") | gsub("\\|"; "/")) |"' "$LATEST" 2>/dev/null || echo "")
+                  REPORT_TEXT="${REPORT_TEXT}| 계정 | 내용 |\n|------|------|\n${TWEETS}\n\n</details>\n\n"
+                fi
               fi
             fi
           done
@@ -97,18 +105,50 @@ jobs:
 
           # Issue 생성
           if [ "$CREATE_ISSUE" == "true" ] && [ "$TOTAL_TWEETS" -ge "$THRESHOLD" ]; then
-            BODY=$(printf "## 🚨 위협 인텔리전스 수집 결과\n\n**수집 시간**: $(date +'%Y-%m-%d %H:%M KST')\n**총 트윗**: ${TOTAL_TWEETS}건\n\n${REPORT_TEXT}\n---\n_자동 생성된 리포트입니다._")
+            BODY=$(cat <<EOF
+          ## 🚨 X 위협 인텔리전스 리포트
+
+          | 항목 | 값 |
+          |------|-----|
+          | 📅 수집 시간 | $(date +'%Y-%m-%d %H:%M KST') |
+          | 📊 총 트윗 | **${TOTAL_TWEETS}건** |
+          | 🎯 모니터링 키워드 | ${TARGETS} |
+
+          ---
+
+          ## 📋 키워드별 요약
+
+          | 키워드 | 수집량 |
+          |--------|--------|
+          $(printf "${TABLE_ROWS}")
+
+          ---
+
+          ## 📝 상세 내용
+
+          $(printf "${REPORT_TEXT}")
+
+          ---
+          > 🤖 _자동 생성된 리포트입니다._ | [Actions 로그](https://github.com/${{ github.repository }}/actions)
+          EOF
+          )
 
             gh issue create \
-              --title "🚨 위협 감지 리포트: $(date +'%Y-%m-%d %H:%M')" \
+              --title "🚨 [$(date +'%m/%d %H:%M')] 위협 감지: ${TOTAL_TWEETS}건" \
               --body "$BODY" \
               --label "threat-intel,automated" || echo "Issue 생성 실패"
           fi
 
           # Mattermost 알림
           if [ -n "$MATTERMOST_WEBHOOK" ] && [ "$TOTAL_TWEETS" -gt 0 ]; then
-            # JSON 안전하게 생성
-            SAFE_TEXT=$(printf "### 🚨 위협 인텔리전스 알림\n\n**수집 시간**: $(date +'%%Y-%%m-%%d %%H:%%M KST')\n**총 트윗**: ${TOTAL_TWEETS}건\n\n${REPORT_TEXT}[GitHub에서 보기](https://github.com/${{ github.repository }})" | sed 's/"/\\"/g')
+            MM_TEXT="### 🚨 X 위협 인텔리전스 알림\n\n"
+            MM_TEXT="${MM_TEXT}| 항목 | 값 |\n|------|-----|\n"
+            MM_TEXT="${MM_TEXT}| 수집 시간 | $(date +'%Y-%m-%d %H:%M KST') |\n"
+            MM_TEXT="${MM_TEXT}| 총 트윗 | **${TOTAL_TWEETS}건** |\n\n"
+            MM_TEXT="${MM_TEXT}#### 키워드별 현황\n${TABLE_ROWS}\n"
+            MM_TEXT="${MM_TEXT}[GitHub에서 상세 보기](https://github.com/${{ github.repository }}/issues)"
+
+            SAFE_TEXT=$(printf "$MM_TEXT" | sed 's/"/\\"/g')
 
             curl -sS -X POST \
               -H 'Content-Type: application/json' \
