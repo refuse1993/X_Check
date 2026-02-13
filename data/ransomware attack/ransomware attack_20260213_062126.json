@@ -1,0 +1,445 @@
+{
+  "username": "ransomware attack",
+  "tweets": [
+    {
+      "id": "2021647030754648556",
+      "link": "https://twitter.com/ReliaQuestTR/status/2021647030754648556#m",
+      "text": "🚨 Newcomer ransomware group 0APT, claiming 200+ victims on a data-leak site set up in late January, has been discredited as a scam.  Randomly selected targets (some even fake), no attack samples, no known ransomware variant, and a 1 BTC recruitment \"deposit\" confirm its fraud. Despite this, it shows no signs of stopping. Bottom line: Not all claims are real. Thorough additional investigation is paramount.",
+      "user": {
+        "name": "ReliaQuest Threat Research",
+        "username": "@ReliaQuestTR",
+        "profile_id": "1912871633720610816",
+        "avatar": "/pic/profile_images/1912871633720610816/RHJHHnau_bigger.png"
+      },
+      "date": "Feb 11, 2026 · 6:06 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 6,
+        "likes": 395
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022121132845883756",
+      "link": "https://twitter.com/threatcluster/status/2022121132845883756#m",
+      "text": "Winona County confirms ransomware attack, working with law enforcement and cyber forensics specialists to contain impact and protect resident data. #Ransomware threatcluster.io/cluster/win…",
+      "user": {
+        "name": "ThreatCluster",
+        "username": "@threatcluster",
+        "profile_id": "2017678798037139456",
+        "avatar": "/pic/profile_images/2017678798037139456/GrqCmWz__bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 1:30 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "https://threatcluster.io/cluster/winona-county-faces-ransomware-attack-engages-cybersecurity--43d5b9de",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 0,
+        "likes": 20
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022163878914687209",
+      "link": "https://twitter.com/shah_sheikh/status/2022163878914687209#m",
+      "text": "[We Live Security - ESET] Naming and shaming: How ransomware groups tighten the screws on victims. When corporate data is exposed on a dedicated leak site, the consequences linger long after the attack fades from the news cycle ow.ly/PkUL106uuf0",
+      "user": {
+        "name": "Shah Sheikh",
+        "username": "@shah_sheikh",
+        "profile_id": "1045681989095960577",
+        "avatar": "/pic/profile_images/1045681989095960577/kl5G4rq7_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 4:20 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "http://ow.ly/PkUL106uuf0",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 20
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022162620636397706",
+      "link": "https://twitter.com/shah_sheikh/status/2022162620636397706#m",
+      "text": "Naming and shaming: How ransomware groups tighten the screws on victims: When corporate data is exposed on a dedicated leak site, the consequences linger long after the attack fades from the news cycle welivesecurity.com/en/ransom…",
+      "user": {
+        "name": "Shah Sheikh",
+        "username": "@shah_sheikh",
+        "profile_id": "1045681989095960577",
+        "avatar": "/pic/profile_images/1045681989095960577/kl5G4rq7_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 4:15 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 1,
+        "likes": 20
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022118667341664467",
+      "link": "https://twitter.com/IrrefutableV/status/2022118667341664467#m",
+      "text": "Yep, there was a time a few years back before I left my role as VP, Software Engineering when we had a ransomware attack the night before Thanksgiving.  I put in 18-hr days, 7 days a week from Thanksgiving thru Christmas Eve to restore systems.  GenZ would have curled into a ball, cried, and went on a never-ending Netflix bender.",
+      "user": {
+        "name": "The Irrefutable V",
+        "username": "@IrrefutableV",
+        "profile_id": "1845641041468166148",
+        "avatar": "/pic/profile_images/1845641041468166148/QyBjT92G_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 1:20 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@quicklime696969",
+        "@98Thatoneg14930",
+        "@CaroleF83262070",
+        "@hashjenni"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 2,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 14
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022076530885824792",
+      "link": "https://twitter.com/DarkWebInformer/status/2022076530885824792#m",
+      "text": "Ransomware Attack Update - February 12th, 2026  darkwebinformer.com/ransomwa…",
+      "user": {
+        "name": "Dark Web Informer",
+        "username": "@DarkWebInformer",
+        "profile_id": "2009060350524641280",
+        "avatar": "/pic/profile_images/2009060350524641280/UJllMGZD_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 10:33 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "https://darkwebinformer.com/ransomware-attack-update-february-12th-2026/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 6,
+        "likes": 1577
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022106697389551674",
+      "link": "https://twitter.com/securityLab_jp/status/2022106697389551674#m",
+      "text": "フィーチャ、ランサムウェア 被害を公表　サーバー内ファイルの一部が暗号化  rocket-boys.co.jp/security-m… #セキュリティ対策Lab #セキュリティ #Security #CybersecurityNews",
+      "user": {
+        "name": "セキュリティ対策Lab",
+        "username": "@securityLab_jp",
+        "profile_id": "1973314190745149442",
+        "avatar": "/pic/profile_images/1973314190745149442/-iANotRC_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 12:33 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://rocket-boys.co.jp/security-measures-lab/feature-discloses-ransomware-attack-partial-server-file-encryption-reported/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 82
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022096000085578185",
+      "link": "https://twitter.com/threatcluster/status/2022096000085578185#m",
+      "text": "Kettering Health notifies patients of a May 20, 2025 ransomware attack by InterLock that caused a system-wide outage and potential data exposure, offering credit monitoring and ID restoration. #Ransomware threatcluster.io/cluster/ket…",
+      "user": {
+        "name": "ThreatCluster",
+        "username": "@threatcluster",
+        "profile_id": "2017678798037139456",
+        "avatar": "/pic/profile_images/2017678798037139456/GrqCmWz__bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 11:50 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://threatcluster.io/cluster/kettering-health-patients-notified-after-may-2025-ransomware-a491c1f1",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 24
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022083295891050714",
+      "link": "https://twitter.com/securityLab_jp/status/2022083295891050714#m",
+      "text": "穴吹興産、ランサムウェアで一部情報資産の漏洩を確認、影響範囲は調査継続  rocket-boys.co.jp/security-m… #セキュリティ対策Lab #セキュリティ #Security #CybersecurityNews #DataBreach",
+      "user": {
+        "name": "セキュリティ対策Lab",
+        "username": "@securityLab_jp",
+        "profile_id": "1973314190745149442",
+        "avatar": "/pic/profile_images/1973314190745149442/-iANotRC_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 11:00 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 182
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022074149129351428",
+      "link": "https://twitter.com/Olu_bright_/status/2022074149129351428#m",
+      "text": "Day 39 | #100DaysOfCybersecurity  Power supply was totally off today, but I was able to simulate a phishing Email attack from the Cisco packet Tracer Lab. A Ransomware attack through a link embedded in the email. #ireteeh #jay_hunts #segoslavia #OnijeC #TemitopeSobulo #h4ruk7",
+      "user": {
+        "name": "OLUWASEUN",
+        "username": "@Olu_bright_",
+        "profile_id": "2000430289999253513",
+        "avatar": "/pic/profile_images/2000430289999253513/07bzc-Dd_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 10:23 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@Olu_bright_",
+        "@jay_hunts",
+        "@cyberjeremiah",
+        "@Cisco",
+        "@h4ruk7",
+        "@elormkdaniel"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 2,
+        "likes": 22
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022068357848048002",
+      "link": "https://twitter.com/threatcluster/status/2022068357848048002#m",
+      "text": "ApolloMD confirms a May 2025 ransomware attack exposed data of 626,540 patients linked to affiliated physicians nationwide, with personal information stolen from its systems. #Ransomware threatcluster.io/cluster/apo…",
+      "user": {
+        "name": "ThreatCluster",
+        "username": "@threatcluster",
+        "profile_id": "2017678798037139456",
+        "avatar": "/pic/profile_images/2017678798037139456/GrqCmWz__bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 10:00 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://threatcluster.io/cluster/apollomd-data-breach-affects-over-626500-patients-4576c6b4",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 21
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022055359515684969",
+      "link": "https://twitter.com/VeliUotila/status/2022055359515684969#m",
+      "text": "A company saved from ruin by a single offline domain controller server.  Russian ransomware attack against Ukraine almost took them out.  Next lego set covering Maersk should feature and honor the lone server.  Russia is a global threat to us all and a terrorist country.",
+      "user": {
+        "name": "Veli Uotila",
+        "username": "@VeliUotila",
+        "profile_id": "711840483841024000",
+        "avatar": "/pic/profile_images/711840483841024000/kKhLIxnl_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 9:09 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@CorporalFrisk"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 29
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022053428814311924",
+      "link": "https://twitter.com/InfosecDotWatch/status/2022053428814311924#m",
+      "text": "Romania’s oil pipeline operator confirms cyberattack amid data-theft claims therecord.media/romania-conp…",
+      "user": {
+        "name": "INFOSEC.WATCH",
+        "username": "@InfosecDotWatch",
+        "profile_id": "1963582007109455872",
+        "avatar": "/pic/profile_images/1963582007109455872/uuZ_BKUl_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 9:01 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://therecord.media/romania-conpet-oil-pipeline-ransomware-attack",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 14
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022045092924493945",
+      "link": "https://twitter.com/jaburche/status/2022045092924493945#m",
+      "text": "When a hospital’s systems go down, lives are at stake. This Osaka case shows how we harden identity, segment networks, and automate response to bounce back fast: msft.it/6010QRjBG",
+      "user": {
+        "name": "jaburche",
+        "username": "@jaburche",
+        "profile_id": "1989111613408919552",
+        "avatar": "/pic/profile_images/1989111613408919552/nsHrBbkF_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 8:28 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://msft.it/6010QRjBG",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 5
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022038098230587592",
+      "link": "https://twitter.com/0xT3chn0m4nc3r/status/2022038098230587592#m",
+      "text": "Conpet, Romania's oil pipeline operator, hit by Qilin ransomware; data stolen! 🤯  Link: bleepingcomputer.com/news/se… #Ransomware #CyberAttack #Conpet #DataBreach",
+      "user": {
+        "name": "Technomancer",
+        "username": "@0xT3chn0m4nc3r",
+        "profile_id": "1880361511362740224",
+        "avatar": "/pic/profile_images/1880361511362740224/joBhBMxZ_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 8:00 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 30
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022037591684456808",
+      "link": "https://twitter.com/ThreatSynop/status/2022037591684456808#m",
+      "text": "🚨 Conpet confirms Qilin ransomware data theft in Romania pipeline attack Romania’s national oil pipeline operator Conpet confirmed the Qilin ransomware gang exfiltrated company data after breaching its corporate IT network (operations reportedly unaffected), with the group claiming ~1TB stolen and leaking sample docs (incl. financial info and passport scans). The theft elevates fraud/phishing risk for employees/partners and highlights the real-world impact of ransomware “double extortion” on strategic energy infrastructure.  🕷️ Malware: Qilin Ransomware 🎯 Target: Romania/Energy (Oil & Gas Pipeline) #️⃣ Category: #DataBreach #CyberCrime #TargetedAttacks 🔗 URL: bleepingcomputer.com/news/se…",
+      "user": {
+        "name": "ThreatSynop",
+        "username": "@ThreatSynop",
+        "profile_id": "2001754048488243200",
+        "avatar": "/pic/profile_images/2001754048488243200/mznKnDj9_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 7:58 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 22
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T06:21:26.829887",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 16,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}

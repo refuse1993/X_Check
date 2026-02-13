@@ -1,0 +1,242 @@
+{
+  "username": "LockBit",
+  "tweets": [
+    {
+      "id": "2021972669923537139",
+      "link": "https://twitter.com/Acronis/status/2021972669923537139#m",
+      "text": "Acronis Threat Research Unit (TRU) Update: LockBit strikes with new 5.0 version, targeting Windows, Linux and ESXI systems.  ➡️ acronis.com/en/tru/posts/loc…  Key highlights: 🔹The Windows sample has most defense evasion and anti-analysis techniques applied across all analyzed samples. This includes packing, DLL unhooking, process hollowing, patching Event Tracing for Windows (ETW) functions and clearing all available logs in the system.  🔹Linux and ESXI versions are very similar, except for functions that target virtualization. Neither of these versions is packed, but almost all strings are encrypted.  🔹All versions have the same ransom note, append a random extension to each encrypted file, and the same encryption routine that involves XChaCha20 and Curve25519.  🔹The LockBit site was hosted on infrastructure with historical ties to SmokeLoader, indicating possible infrastructure reuse or cooperation.  For MSPs and IT teams, speed matters. Threat research provides the intelligence to update protections quickly, manage efficiently, and automate defenses, so teams can stay protected without adding complexity.",
+      "user": {
+        "name": "Acronis",
+        "username": "@Acronis",
+        "profile_id": "784455300103475200",
+        "avatar": "/pic/profile_images/784455300103475200/eTOjJf7I_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 3:40 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 5,
+        "quotes": 7,
+        "likes": 332
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": [
+        "https://video.twimg.com/tweet_video/HA97xsoXcAAQLs_.mp4"
+      ]
+    },
+    {
+      "id": "2022136992306229385",
+      "link": "https://twitter.com/JeskoRiot/status/2022136992306229385#m",
+      "text": "What better way to investigate corporations and governments than taking down Ransomware as a service groups that have taken data and encrypted it.   I have long wondered if our people ran LockBit.  It's not that far fetched when you look at places like Valhalla which was a honeypot ran by the feds on the dark web.   These groups exfiltrate the data and encrypt it demand and a BTC payout.  Pay up and you get the data and the encryption key. Don't pay up and the data is released to the public",
+      "user": {
+        "name": "Jesko Riot",
+        "username": "@JeskoRiot",
+        "profile_id": "2000278683668381705",
+        "avatar": "/pic/profile_images/2000278683668381705/27XDLrpi_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 2:33 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@TheDebriefing17"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 10
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022002204463575089",
+      "link": "https://twitter.com/chum1ng0/status/2022002204463575089#m",
+      "text": "🔴🇨🇱El grupo de ransomware LockBit 5.0 publica en su sitio DarkWeb:  ISESA S.A - isesa.cl #ciberseguridad #ransomware #infosec #Chile #DarkWeb #LockBit #ciberataque",
+      "user": {
+        "name": "chum1ng0/security research",
+        "username": "@chum1ng0",
+        "profile_id": "1907530758777909248",
+        "avatar": "/pic/profile_images/1907530758777909248/bq7ASpQZ_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 5:37 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 6,
+        "quotes": 13,
+        "likes": 1339
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021932674580160678",
+      "link": "https://twitter.com/H4ckmanac/status/2021932674580160678#m",
+      "text": "🎯 𝐔𝐬𝐞 𝐂𝐚𝐬𝐞 — 𝐈𝐬 𝐋𝐨𝐜𝐤𝐁𝐢𝐭 𝟓.𝟎 𝐚 𝐫𝐞𝐚𝐥 𝐫𝐢𝐬𝐤 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧?  Since November 24, LockBit has resurfaced in its fifth reincarnation — 𝐋𝐨𝐜𝐤𝐁𝐢𝐭 𝟓.𝟎 — and has already been linked to 99 attacks.  For a CISO, the key question is:  “𝙄𝙨 𝙇𝙤𝙘𝙠𝘽𝙞𝙩 𝙧𝙚𝙡𝙚𝙫𝙖𝙣𝙩 𝙩𝙤 𝙢𝙮 𝙤𝙧𝙜𝙖𝙣𝙞𝙯𝙖𝙩𝙞𝙤𝙣?”  On HackRisk, the Threat Actor profile allows you to assess this in minutes.  📊 𝐓𝐨𝐩 𝐭𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐬𝐞𝐜𝐭𝐨𝐫𝐬 • Manufacturing • Professional / Scientific / Technical • Healthcare • Wholesale / Retail • Education • Financial / Insurance • Construction • Hospitality • Gov / Mil / LE • ICT  📈 𝐈𝐦𝐩𝐚𝐜𝐭 𝐢𝐧𝐝𝐢𝐜𝐚𝐭𝐨𝐫𝐬 • Average ESIX©: 𝟓.𝟑 (𝐇𝐢𝐠𝐡 severity range) • 𝟏𝟓 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 attacks • Consistent cross-sector targeting • Sustained activity pattern  🌍 𝐌𝐨𝐬𝐭 𝐭𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐜𝐨𝐮𝐧𝐭𝐫𝐢𝐞𝐬 • United States • Brazil • Italy • Turkey • Spain • India • Mexico • France • Austria • Germany  If your sector or country appears in these lists, this is no longer background noise.  👉 Explore the full LockBit 5.0 threat profile on HackRisk hackrisk.io",
+      "user": {
+        "name": "Hackmanac",
+        "username": "@H4ckmanac",
+        "profile_id": "1927396158894153728",
+        "avatar": "/pic/profile_images/1927396158894153728/BphWMdhw_bigger.png"
+      },
+      "date": "Feb 12, 2026 · 1:01 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 3,
+        "quotes": 8,
+        "likes": 3747
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022003458367185092",
+      "link": "https://twitter.com/grok/status/2022003458367185092#m",
+      "text": "The press release is about Rostislav Panev, a 51-year-old dual Russian-Israeli national extradited to the US for his alleged role as a developer in the LockBit ransomware group. He faces federal charges in New Jersey.",
+      "user": {
+        "name": "Grok",
+        "username": "@grok",
+        "profile_id": "1893219113717342208",
+        "avatar": "/pic/profile_images/1893219113717342208/Vgg2hEPa_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 5:42 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "http://play.google.com/store/apps/details?id=ai.x.grok",
+      "replying-to": [
+        "@SShepherd22112",
+        "@FBIHouston",
+        "@FBIDirectorKash",
+        "@houstonpolice"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 31
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021994374079390007",
+      "link": "https://twitter.com/grok/status/2021994374079390007#m",
+      "text": "The press release refers to Rostislav Panev, a 51-year-old dual Russian-Israeli national extradited from Israel to the US in March 2025. He's charged with conspiracy to commit computer fraud for his role as a developer in the LockBit ransomware group, active from 2019 to 2024.",
+      "user": {
+        "name": "Grok",
+        "username": "@grok",
+        "profile_id": "1893219113717342208",
+        "avatar": "/pic/profile_images/1893219113717342208/Vgg2hEPa_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 5:06 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "http://play.google.com/store/apps/details?id=ai.x.grok",
+      "replying-to": [
+        "@SShepherd22112",
+        "@FBICyberDiv",
+        "@FBIDirectorKash",
+        "@FBI"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 32
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021994235403137430",
+      "link": "https://twitter.com/grok/status/2021994235403137430#m",
+      "text": "Noted. Rostislav Panev, a dual Russian-Israeli national, was extradited to the US in March 2025 for his alleged role as a LockBit ransomware developer. This ties into FBI's Operation Winter SHIELD, aimed at countering such cyber threats. For more, see justice.gov.",
+      "user": {
+        "name": "Grok",
+        "username": "@grok",
+        "profile_id": "1893219113717342208",
+        "avatar": "/pic/profile_images/1893219113717342208/Vgg2hEPa_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 5:06 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "http://play.google.com/store/apps/details?id=ai.x.grok",
+      "replying-to": [
+        "@SShepherd22112",
+        "@FBICyberDiv",
+        "@FBIDirectorKash",
+        "@FBI"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 35
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021916070303748560",
+      "link": "https://twitter.com/FalconFeedsio/status/2021916070303748560#m",
+      "text": "📢 Ransomware Alert :  LOCKBIT 5.0 ransomware group has added 5 new victims to their dark web portal.  ⦁SOS. LTDA 🇨🇴 ⦁ISESA S.A. 🇨🇱 ⦁Aeromedical Society of Australasia 🇦🇺 ⦁Renovagy 🇪🇸 ⦁Chamberlain & McCreery 🇺🇸",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 11:55 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 5,
+        "quotes": 8,
+        "likes": 1292
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T06:20:42.322108",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 8,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}

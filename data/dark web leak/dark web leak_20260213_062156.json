@@ -1,0 +1,154 @@
+{
+  "username": "dark web leak",
+  "tweets": [
+    {
+      "id": "2022073441940386063",
+      "link": "https://twitter.com/MrNoDreams/status/2022073441940386063#m",
+      "text": "Then drop the onion leak babe. Nothing ever leaves the dark web so it should be easy to produce",
+      "user": {
+        "name": "MrNoDreams",
+        "username": "@MrNoDreams",
+        "profile_id": "1970284704050909184",
+        "avatar": "/pic/profile_images/1970284704050909184/fevRQG66_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 10:20 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@dinkleburg4138",
+        "@hamboneplaya",
+        "@mslilithtx"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 19
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022066897744015753",
+      "link": "https://twitter.com/UndercodeNews/status/2022066897744015753#m",
+      "text": "🌐 Sinobi #Ransomware Strikes Again: Halcyon Technologies Named on Dark Web Leak Site  -Fact Checker: ✅: 0 ❌: 0 || 0/0  undercodenews.com/sinobi-ran…",
+      "user": {
+        "name": "UNDERCODE NEWS",
+        "username": "@UndercodeNews",
+        "profile_id": "1913838288823005184",
+        "avatar": "/pic/profile_images/1913838288823005184/VYKro2Ha_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 9:54 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "http://undercodenews.com/sinobi-ransomware-strikes-again-halcyon-technologies-named-on-dark-web-leak-site/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 34
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021573692703092760",
+      "link": "https://twitter.com/ValourApp/status/2021573692703092760#m",
+      "text": "Maybe Discord's goal is to leak so much personal information that it becomes worthless on dark web markets, making us all equally unsafe but not especially unsafe.",
+      "user": {
+        "name": "Valour Software",
+        "username": "@ValourApp",
+        "profile_id": "1871383996594110464",
+        "avatar": "/pic/profile_images/1871383996594110464/AF6t7hlJ_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 1:15 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 7,
+        "retweets": 47,
+        "quotes": 316,
+        "likes": 10623
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021806378739003683",
+      "link": "https://twitter.com/BillyCarvelli/status/2021806378739003683#m",
+      "text": "Decentralized Identity Wallets Store SSN—One Hack Exposes All! Self-sovereign IDs promise privacy but centralized oracles leak master records to dark web markets. #carvelli #masteroffinance #truth #DID #identityhack",
+      "user": {
+        "name": "Carvelli Master of Finance",
+        "username": "@BillyCarvelli",
+        "profile_id": "1786507124488691712",
+        "avatar": "/pic/profile_images/1786507124488691712/EujzE1Km_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 4:39 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 4
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021804462218568009",
+      "link": "https://twitter.com/FujishiroOtoneR/status/2021804462218568009#m",
+      "text": "How many dark web sites sell icloud data dumps? Majority of your data (the important stuff) is end to end encrypted and the keys don't leave the device. Discord already had a RECENT data leak on top of its previous data leaks.",
+      "user": {
+        "name": "Fujishiro Otone",
+        "username": "@FujishiroOtoneR",
+        "profile_id": "614878704108478464",
+        "avatar": "/pic/profile_images/614878704108478464/XQDWOsQC_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 4:32 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@ScottyDontTwit",
+        "@Barny",
+        "@freakmongerGG",
+        "@discord"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 60
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T06:21:56.397448",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 5,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}

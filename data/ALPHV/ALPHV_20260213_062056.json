@@ -1,0 +1,121 @@
+{
+  "username": "ALPHV",
+  "tweets": [
+    {
+      "id": "2021888643598532802",
+      "link": "https://twitter.com/Yann_Axel_S/status/2021888643598532802#m",
+      "text": "mon coeur etait chaud hin",
+      "user": {
+        "name": "le bana bana",
+        "username": "@Yann_Axel_S",
+        "profile_id": "1952480060834725888",
+        "avatar": "/pic/profile_images/1952480060834725888/BByhUD5g_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 10:06 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@Alphv_Nxur"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 1,
+        "likes": 80
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1701531215914844581",
+      "link": "https://twitter.com/FalconFeedsio/status/1701531215914844581#m",
+      "text": "ALPHV #ransomware group has added 2 new victims to their #darkweb portal.  - Derrimon Trading Company Limited 🇯🇲 - Credifiel 🇲🇽  #Jamaica #Mexico #alphv #darkweb #databreach #cyberattack",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Sep 12, 2023 · 9:40 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 3,
+        "retweets": 21,
+        "quotes": 41,
+        "likes": 12712
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021555062753972631",
+      "link": "https://twitter.com/Wee_Tox/status/2021555062753972631#m",
+      "text": "@Alphv_Nxur",
+      "user": {
+        "name": "تسعة/ NUEVE 👑",
+        "username": "@Wee_Tox",
+        "profile_id": "1759387904680308737",
+        "avatar": "/pic/profile_images/1759387904680308737/B5rdPWlT_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 12:01 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 1,
+        "quotes": 1,
+        "likes": 76
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2020927342663614789",
+      "link": "https://twitter.com/cybernewslive/status/2020927342663614789#m",
+      "text": "FIIG Securities was penalized $2.5 million for a 2023 data breach that exposed sensitive client data, including driver's licenses and bank details. The ALPHV ransomware group is believed to be responsible for the attack, which affected approximately 18,000 clients. If you were a FIIG client, check your accounts for charges or logins you don't recognize and consider freezing your credit. 💀 #CyberNewsLive itnews.com.au/news/fiig-pena…",
+      "user": {
+        "name": "Cyber News Live",
+        "username": "@cybernewslive",
+        "profile_id": "1616328605029797889",
+        "avatar": "/pic/profile_images/1616328605029797889/YmYj2IPk_bigger.jpg"
+      },
+      "date": "Feb 9, 2026 · 6:26 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://itnews.com.au/news/fiig-penalised-25m-for-cyber-security-failures-623490",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 46
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T06:20:56.897994",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 4,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}

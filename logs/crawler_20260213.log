@@ -1,0 +1,19 @@
+[2026-02-13 06:20:23] INFO     __main__ - X(트위터) 데이터 수집 시스템 시작
+[2026-02-13 06:20:23] INFO     __main__ - 대상 계정: LockBit, ALPHV, BlackCat, ransomware attack, data breach, dark web leak
+[2026-02-13 06:20:23] INFO     __main__ - 크롤링 작업 시작 (6개 계정)
+[2026-02-13 06:20:24] INFO     __main__ - LibRedirect API에서 8개 인스턴스 조회
+[2026-02-13 06:20:27] INFO     __main__ - 활성 인스턴스: 2개
+[2026-02-13 06:20:28] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 06:20:42] INFO     __main__ -   ✓ LockBit 완료: 트윗 8개 / 스레드 0개
+[2026-02-13 06:20:43] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 06:20:56] INFO     __main__ -   ✓ ALPHV 완료: 트윗 4개 / 스레드 0개
+[2026-02-13 06:20:57] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 06:21:11] INFO     __main__ -   ✓ BlackCat 완료: 트윗 19개 / 스레드 0개
+[2026-02-13 06:21:12] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 06:21:26] INFO     __main__ -   ✓ ransomware attack 완료: 트윗 16개 / 스레드 0개
+[2026-02-13 06:21:27] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 06:21:41] DEBUG    __main__ - 트윗 파싱 실패: list index out of range
+[2026-02-13 06:21:41] INFO     __main__ -   ✓ data breach 완료: 트윗 17개 / 스레드 0개
+[2026-02-13 06:21:42] WARNING  root - Empty page on https://nitter.privacyredirect.com
+[2026-02-13 06:21:56] INFO     __main__ -   ✓ dark web leak 완료: 트윗 5개 / 스레드 0개
+[2026-02-13 06:21:56] INFO     __main__ - 작업 완료: 6/6 성공 (92초)
