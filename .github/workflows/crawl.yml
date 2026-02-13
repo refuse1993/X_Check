@@ -63,67 +63,57 @@ jobs:
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Analyze and create issue
-        if: steps.config.outputs.CREATE_ISSUE == 'true' && steps.commit.outputs.has_changes == 'true'
+      - name: Analyze and notify
+        if: steps.commit.outputs.has_changes == 'true'
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MATTERMOST_WEBHOOK: ${{ secrets.MATTERMOST_WEBHOOK }}
           THRESHOLD: ${{ steps.config.outputs.ISSUE_THRESHOLD }}
+          CREATE_ISSUE: ${{ steps.config.outputs.CREATE_ISSUE }}
         run: |
           # 최신 수집 파일들 분석
           TOTAL_TWEETS=0
-          SUMMARY=""
+          REPORT_TEXT=""
 
           for dir in data/*/; do
             LATEST=$(ls -t "${dir}"*.json 2>/dev/null | head -1)
             if [ -n "$LATEST" ]; then
               KEYWORD=$(basename "$dir")
               COUNT=$(jq '.tweets | length' "$LATEST" 2>/dev/null || echo 0)
-              TOTAL_TWEETS=$((TOTAL_TWEETS + COUNT))
 
               if [ "$COUNT" -gt 0 ]; then
-                SUMMARY="${SUMMARY}\n### 🔍 ${KEYWORD} (${COUNT}건)\n"
-                SUMMARY="${SUMMARY}$(jq -r '.tweets[:3][] | "- **@\(.user.username)**: \(.text[:120] | gsub("\n"; " "))..."' "$LATEST" 2>/dev/null || echo "")\n"
+                TOTAL_TWEETS=$((TOTAL_TWEETS + COUNT))
+                REPORT_TEXT="${REPORT_TEXT}### ${KEYWORD} (${COUNT}건)\n"
+
+                # 상위 3개 트윗 요약
+                TWEETS=$(jq -r '.tweets[:3][] | "- @\(.user.username): \(.text[:80] | gsub("\n"; " ") | gsub("\""; ""))"' "$LATEST" 2>/dev/null || echo "")
+                REPORT_TEXT="${REPORT_TEXT}${TWEETS}\n\n"
               fi
             fi
           done
 
-          # 임계값 이상이면 Issue 생성
-          if [ "$TOTAL_TWEETS" -ge "$THRESHOLD" ]; then
-            BODY=$(printf "## 🚨 위협 인텔리전스 수집 결과\n\n**수집 시간**: $(date +'%Y-%m-%d %H:%M KST')\n**총 트윗**: ${TOTAL_TWEETS}건\n\n${SUMMARY}\n\n---\n_자동 생성된 리포트입니다._")
+          echo "총 수집: ${TOTAL_TWEETS}건"
+
+          # Issue 생성
+          if [ "$CREATE_ISSUE" == "true" ] && [ "$TOTAL_TWEETS" -ge "$THRESHOLD" ]; then
+            BODY=$(printf "## 🚨 위협 인텔리전스 수집 결과\n\n**수집 시간**: $(date +'%Y-%m-%d %H:%M KST')\n**총 트윗**: ${TOTAL_TWEETS}건\n\n${REPORT_TEXT}\n---\n_자동 생성된 리포트입니다._")
 
             gh issue create \
               --title "🚨 위협 감지 리포트: $(date +'%Y-%m-%d %H:%M')" \
               --body "$BODY" \
-              --label "threat-intel,automated"
+              --label "threat-intel,automated" || echo "Issue 생성 실패"
           fi
 
-          # 결과 저장 (Mattermost 알림용)
-          echo "$TOTAL_TWEETS" > /tmp/total_tweets
-          printf "$SUMMARY" > /tmp/summary
+          # Mattermost 알림
+          if [ -n "$MATTERMOST_WEBHOOK" ] && [ "$TOTAL_TWEETS" -gt 0 ]; then
+            # JSON 안전하게 생성
+            SAFE_TEXT=$(printf "### 🚨 위협 인텔리전스 알림\n\n**수집 시간**: $(date +'%%Y-%%m-%%d %%H:%%M KST')\n**총 트윗**: ${TOTAL_TWEETS}건\n\n${REPORT_TEXT}[GitHub에서 보기](https://github.com/${{ github.repository }})" | sed 's/"/\\"/g')
 
-      - name: Send Mattermost notification
-        if: steps.commit.outputs.has_changes == 'true'
-        env:
-          MATTERMOST_WEBHOOK: ${{ secrets.MATTERMOST_WEBHOOK }}
-        run: |
-          if [ -z "$MATTERMOST_WEBHOOK" ]; then
-            echo "MATTERMOST_WEBHOOK not set, skipping notification"
-            exit 0
+            curl -sS -X POST \
+              -H 'Content-Type: application/json' \
+              --connect-timeout 10 \
+              --max-time 30 \
+              -d "{\"text\": \"${SAFE_TEXT}\"}" \
+              "$MATTERMOST_WEBHOOK" && echo "Mattermost 알림 전송 완료" || echo "Mattermost 알림 실패"
           fi
-
-          TOTAL_TWEETS=$(cat /tmp/total_tweets 2>/dev/null || echo "0")
-          SUMMARY=$(cat /tmp/summary 2>/dev/null || echo "")
-
-          # Mattermost 메시지 포맷
-          MESSAGE=$(cat <<EOF
-          {
-            "username": "X Threat Bot",
-            "icon_emoji": ":warning:",
-            "text": "### 🚨 위협 인텔리전스 알림\n\n**수집 시간**: $(date +'%Y-%m-%d %H:%M KST')\n**총 트윗**: ${TOTAL_TWEETS}건\n${SUMMARY}\n\n[GitHub에서 보기](https://github.com/${{ github.repository }})"
-          }
-          EOF
-          )
-
-          curl -X POST -H 'Content-Type: application/json' \
-            -d "$MESSAGE" \
-            "$MATTERMOST_WEBHOOK"
