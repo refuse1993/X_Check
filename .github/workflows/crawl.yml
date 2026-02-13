@@ -15,6 +15,8 @@ permissions:
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Seoul
 
     steps:
       - name: Checkout repository
@@ -68,7 +70,6 @@ jobs:
         continue-on-error: true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MATTERMOST_WEBHOOK: ${{ secrets.MATTERMOST_WEBHOOK }}
           THRESHOLD: ${{ steps.config.outputs.ISSUE_THRESHOLD }}
           CREATE_ISSUE: ${{ steps.config.outputs.CREATE_ISSUE }}
           TARGETS: ${{ steps.config.outputs.TARGETS }}
@@ -151,21 +152,5 @@ jobs:
               --label "threat-intel,automated" || echo "Issue 생성 실패"
           fi
 
-          # Mattermost 알림
-          if [ -n "$MATTERMOST_WEBHOOK" ] && [ "$TOTAL_TWEETS" -gt 0 ]; then
-            MM_TEXT="### 🚨 X 위협 인텔리전스 알림\n\n"
-            MM_TEXT="${MM_TEXT}| 항목 | 값 |\n|------|-----|\n"
-            MM_TEXT="${MM_TEXT}| 수집 시간 | $(date +'%Y-%m-%d %H:%M KST') |\n"
-            MM_TEXT="${MM_TEXT}| 총 트윗 | **${TOTAL_TWEETS}건** |\n\n"
-            MM_TEXT="${MM_TEXT}#### 키워드별 현황\n${TABLE_ROWS}\n"
-            MM_TEXT="${MM_TEXT}[GitHub에서 상세 보기](https://github.com/${{ github.repository }}/issues)"
-
-            SAFE_TEXT=$(printf "$MM_TEXT" | sed 's/"/\\"/g')
-
-            curl -sS -X POST \
-              -H 'Content-Type: application/json' \
-              --connect-timeout 10 \
-              --max-time 30 \
-              -d "{\"text\": \"${SAFE_TEXT}\"}" \
-              "$MATTERMOST_WEBHOOK" && echo "Mattermost 알림 전송 완료" || echo "Mattermost 알림 실패"
-          fi
+          # Mattermost 알림 (비활성화)
+          # GitHub Webhook으로 대체 - repo Settings > Webhooks에서 설정
