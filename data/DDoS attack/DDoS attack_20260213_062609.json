@@ -1,0 +1,444 @@
+{
+  "username": "DDoS attack",
+  "tweets": [
+    {
+      "id": "2022189076703756664",
+      "link": "https://twitter.com/transilienceai/status/2022189076703756664#m",
+      "text": "🚨 AISURU-Kimwolf Threat Intelligence Report [High] Feb 13, 2026  Analysis of the AISURU/Kimwolf botnet, its DDoS attack campaigns, and associated risks.  Checkout our Threat Intelligence Platform: threatintel.transilience.clo… threatintel.transilience.clo… #LLM",
+      "user": {
+        "name": "transilienceai",
+        "username": "@transilienceai",
+        "profile_id": "1774406319857905665",
+        "avatar": "/pic/profile_images/1774406319857905665/GRssapFg_bigger.png"
+      },
+      "date": "Feb 13, 2026 · 6:00 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 6
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022174837503144151",
+      "link": "https://twitter.com/_01010101/status/2022174837503144151#m",
+      "text": "AI DDOS attack in real live 🥴",
+      "user": {
+        "name": "Kim Bee",
+        "username": "@_01010101",
+        "profile_id": "1907789923421200385",
+        "avatar": "/pic/profile_images/1907789923421200385/r9t93smG_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 5:03 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 2
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022171568299028723",
+      "link": "https://twitter.com/jkq6000/status/2022171568299028723#m",
+      "text": "DDoS Attacks Doubled in 2025  Cloudflare's report shows attacks more than doubled last year. The scariest part? Network-layer attacks grew 700%. One attack hit a record 31.4 Tbps.  Read more: blog.cloudflare.com/ddos-thr…",
+      "user": {
+        "name": "Sarang",
+        "username": "@jkq6000",
+        "profile_id": "1983492215713525760",
+        "avatar": "/pic/profile_images/1983492215713525760/V7q5_YMn_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 4:50 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://blog.cloudflare.com/ddos-threat-report-2025-q4/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 4
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022138720280064370",
+      "link": "https://twitter.com/MoxiesKlubhouse/status/2022138720280064370#m",
+      "text": "Our website is down due to a ddos attack. We will have it back up as soon as we can.",
+      "user": {
+        "name": "MoxiesKlubhouse",
+        "username": "@MoxiesKlubhouse",
+        "profile_id": "1779912526374883328",
+        "avatar": "/pic/profile_images/1779912526374883328/YAOLmj_f_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 2:40 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 2,
+        "quotes": 2,
+        "likes": 57
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022161818647769461",
+      "link": "https://twitter.com/josiasblanco80/status/2022161818647769461#m",
+      "text": "Its not a ddos attack people are using a software that lets u auto green and not only that u can lag switch people on command by pressing a button and pressing it again to turn it off and on wenever shit dumb asf",
+      "user": {
+        "name": "Josias",
+        "username": "@josiasblanco80",
+        "profile_id": "1369554108621930497",
+        "avatar": "/pic/profile_images/1369554108621930497/1upR7gZF_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 4:12 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@NadeGrinds",
+        "@itsEvanCC",
+        "@Beluba"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 53
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022153722558841073",
+      "link": "https://twitter.com/KharayKrayKray/status/2022153722558841073#m",
+      "text": "Cloudflare. They’ll solve most your issues. This is most likely crawlers, scrappers or DDOS attack.  You need rate limiting, captcha, and other ways to slow your attackers down.   Check your server logs too. They’ll help you understand what’s happening better.",
+      "user": {
+        "name": "random guy on the internet",
+        "username": "@KharayKrayKray",
+        "profile_id": "1945246019731513344",
+        "avatar": "/pic/profile_images/1945246019731513344/y2UOLJ6a_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 3:39 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@Devg3ntl3"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 15
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021616336279912478",
+      "link": "https://twitter.com/glennbeck/status/2021616336279912478#m",
+      "text": "From Iran to El Paso to a DDos attack on GlennBeck.com, it's been a VERY weird day.",
+      "user": {
+        "name": "Glenn Beck",
+        "username": "@glennbeck",
+        "profile_id": "2010524135747682304",
+        "avatar": "/pic/profile_images/2010524135747682304/M2zExh5X_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 4:04 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 31,
+        "retweets": 65,
+        "quotes": 658,
+        "likes": 27302
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022137767681986681",
+      "link": "https://twitter.com/shingo_a10/status/2022137767681986681#m",
+      "text": "The DDoS attack landscape is evolving at an alarming pace. Download the free A10 DDoS weapons report to stay informed and protect your organization. bit.ly/4apifYX #cybersecurity #DDoS",
+      "user": {
+        "name": "Shingo Takagi, Marketing/BizDev A10Networks, Japan",
+        "username": "@shingo_a10",
+        "profile_id": "1253563203272859648",
+        "avatar": "/pic/profile_images/1253563203272859648/_2OBHk8l_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 2:36 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 23
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2017070266233606636",
+      "link": "https://twitter.com/Pirat_Nation/status/2017070266233606636#m",
+      "text": "Cloudflare claims a new world record for a 31.4 Tbps DDoS botnet attack it recorded late last year.  The attack occurred on December 19, 2025, and was launched by the Aisuru/Kimwolf botnet as part of a campaign called \"The Night Before Christmas.\"    It primarily targeted telecommunications companies, along with Cloudflare customers, the dashboard, and infrastructure.",
+      "user": {
+        "name": "Pirat_Nation 🔴",
+        "username": "@Pirat_Nation",
+        "profile_id": "1795139938586890240",
+        "avatar": "/pic/profile_images/1795139938586890240/fQtS5oQr_bigger.jpg"
+      },
+      "date": "Jan 30, 2026 · 3:00 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 24,
+        "retweets": 72,
+        "quotes": 1370,
+        "likes": 70973
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2019463173338804508",
+      "link": "https://twitter.com/TheHackersNews/status/2019463173338804508#m",
+      "text": "🌐⚠️ AISURU/Kimwolf launched a record 31.4 Tbps HTTP DDoS attack — mitigated by Cloudflare.  Same botnet drove holiday flood campaigns as Q4 hyper-volumetric attacks surged. Runs on 2M+ infected Android devices via proxy networks.  🔗 Read → thehackernews.com/2026/02/ai…",
+      "user": {
+        "name": "The Hacker News",
+        "username": "@TheHackersNews",
+        "profile_id": "1597647879811657728",
+        "avatar": "/pic/profile_images/1597647879811657728/FLgHrLHy_bigger.jpg"
+      },
+      "date": "Feb 5, 2026 · 5:28 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 5,
+        "retweets": 25,
+        "quotes": 72,
+        "likes": 12738
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022048737426858088",
+      "link": "https://twitter.com/StormyCloudInc/status/2022048737426858088#m",
+      "text": "We are currently under a #DDoS attack, we have implemented some protective measures but some of our services may be intermittent. Any DDoS transit providers feel free to reach out.",
+      "user": {
+        "name": "StormyCloud Inc",
+        "username": "@StormyCloudInc",
+        "profile_id": "1532149923336097794",
+        "avatar": "/pic/profile_images/1532149923336097794/qEkGa3xD_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 8:42 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 115
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022123877724516387",
+      "link": "https://twitter.com/PaleoRage/status/2022123877724516387#m",
+      "text": "Doing God's work. This is a DDoS attack on critical thinking.",
+      "user": {
+        "name": "Free Martha Stewart (medium/rare)",
+        "username": "@PaleoRage",
+        "profile_id": "1367046187",
+        "avatar": "/pic/profile_images/1367046187/steak_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 1:41 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 6
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022094927145185686",
+      "link": "https://twitter.com/230kph/status/2022094927145185686#m",
+      "text": "Could it have been a ddos attack coming from ticket scalping groups ? So that legit card holders couldn't buy tickets.",
+      "user": {
+        "name": "230k ",
+        "username": "@230kph",
+        "profile_id": "540723153790443520",
+        "avatar": "/pic/profile_images/540723153790443520/PdivoxgC_bigger.jpeg"
+      },
+      "date": "Feb 12, 2026 · 11:46 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@travelhacked"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 411
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022081968981020839",
+      "link": "https://twitter.com/grok/status/2022081968981020839#m",
+      "text": "The 2014 PlayStation Network outage was due to a DDoS attack by the Lizard Squad hacking group, not North Korea. That said, North Korea was officially linked by the US to the separate Sony Pictures hack that year, tied to \"The Interview\" film.",
+      "user": {
+        "name": "Grok",
+        "username": "@grok",
+        "profile_id": "1893219113717342208",
+        "avatar": "/pic/profile_images/1893219113717342208/Vgg2hEPa_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 10:54 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "http://play.google.com/store/apps/details?id=ai.x.grok",
+      "replying-to": [
+        "@RobelAsfaww",
+        "@kirawontmiss"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 69
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2019415358894162277",
+      "link": "https://twitter.com/Cloudforce_One/status/2019415358894162277#m",
+      "text": "NEW: The total number of DDoS attacks  more than doubled in 2025. And the world-record for largest DDoS attack observed by @Cloudflare  was broken 19 times this year, with the current record-holder at 31.4 Tbps blog.cloudflare.com/ddos-thr…",
+      "user": {
+        "name": "Cloudforce One",
+        "username": "@Cloudforce_One",
+        "profile_id": "1955728828132941826",
+        "avatar": "/pic/profile_images/1955728828132941826/l1OxLgSG_bigger.jpg"
+      },
+      "date": "Feb 5, 2026 · 2:18 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "https://blog.cloudflare.com/ddos-threat-report-2025-q4/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 4,
+        "quotes": 15,
+        "likes": 15306
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022074986870272057",
+      "link": "https://twitter.com/Capricorngamez/status/2022074986870272057#m",
+      "text": "can you fix your game, thanks. another ddos attack that yall wont admit too.",
+      "user": {
+        "name": "Allen Price",
+        "username": "@Capricorngamez",
+        "profile_id": "1510494614049878019",
+        "avatar": "/pic/profile_images/1510494614049878019/nPVUCW9F_bigger.png"
+      },
+      "date": "Feb 12, 2026 · 10:26 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@BlizzardCS"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 38
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T06:26:09.225931",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 16,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}

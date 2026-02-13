@@ -1,0 +1,249 @@
+{
+  "username": "RipperSec DDoS",
+  "tweets": [
+    {
+      "id": "2022074211842633926",
+      "link": "https://twitter.com/Cyberknow20/status/2022074211842633926#m",
+      "text": "Starting to see increased hacktivist interest in targeting Australian networks as a result of the Sydney protests.  Rippersec conducts DDoS attacks and will likely go after government and critical infrastructure websites with short duration DDoS.  #auspol #Australia",
+      "user": {
+        "name": "CyberKnow",
+        "username": "@Cyberknow20",
+        "profile_id": "1463106094813761536",
+        "avatar": "/pic/profile_images/1463106094813761536/28DpLTkD_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 10:23 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 5,
+        "quotes": 11,
+        "likes": 1255
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021908460477239500",
+      "link": "https://twitter.com/FalconFeedsio/status/2021908460477239500#m",
+      "text": "DDoS Alert: 🇰🇷  RipperSec claims to have targeted the website of Hana Financial Group (hanafn.com)  NB : The site is up at the moment.",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 11:25 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 4,
+        "likes": 933
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022095254728691884",
+      "link": "https://twitter.com/StealthMole_JP/status/2022095254728691884#m",
+      "text": "[STEALTHMOLE'S CASES] 大韓民国陸軍訓練センターに対するDDoS攻撃の背後にいる2つのハッカー集団に関する情報 2つのハクティビスト集団——BD AnonymousおよびRipperSec II——が、大韓民国陸軍訓練センター（katc.mil.kr）を標的とした分散型サービス拒否作戦を公に呼びかけました。",
+      "user": {
+        "name": "StealthMole.jp",
+        "username": "@StealthMole_JP",
+        "profile_id": "1675665267530276864",
+        "avatar": "/pic/profile_images/1675665267530276864/JtlNc0gw_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 11:47 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 112
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021777815692357695",
+      "link": "https://twitter.com/stealthmole_int/status/2021777815692357695#m",
+      "text": "[STEALTHMOLE'S CASES] Intelligence on Two Hacker Groups Behind DDoS Attacks Against the Republic of Korea Army Training Center  Two hacktivist collectives—BD Anonymous and RipperSec II—have publicly called for distributed denial-of-service operations targeting the Republic of Korea Army Training Center (katc.mil.kr). Between 9 and 11 February 2026, each group issued near-identical technical parameters via Telegram channels, leveraging ideological messaging tied to the Israel–Palestine conflict. Both campaigns converge on the same IP and port set, underscoring a coordinated threat surface against Korea Telecom infrastructure.",
+      "user": {
+        "name": "Fusion Intelligence Center @ StealthMole",
+        "username": "@stealthmole_int",
+        "profile_id": "1672125069919920131",
+        "avatar": "/pic/profile_images/1672125069919920131/-WjBv-Zs_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 2:46 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 5,
+        "quotes": 17,
+        "likes": 2457
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021952457681818004",
+      "link": "https://twitter.com/FalconFeedsio/status/2021952457681818004#m",
+      "text": "DDoS Alert: 🇰🇷  RipperSec claims to have targeted the website of Shinhan Bank (shinhan.com ).",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 2:20 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 759
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021883167280415042",
+      "link": "https://twitter.com/f1tym1/status/2021883167280415042#m",
+      "text": "Ransom & Dark Web  Issues Week 2, February 2026 ift.tt/vpLOZaQ ASEC Blog publishes Ransom & Dark Web Issues Week 2, February 2026           Beast, Ransomware Attack Targeting a South Korean Aerospace Component Manufacturer RipperSec, Claims of DDoS Attacks Targeting So…",
+      "user": {
+        "name": "Israel",
+        "username": "@f1tym1",
+        "profile_id": "1403406985438056452",
+        "avatar": "/pic/profile_images/1403406985438056452/sLqq0xBw_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 9:44 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://ift.tt/vpLOZaQ",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 52
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021587248295170203",
+      "link": "https://twitter.com/FalconFeedsio/status/2021587248295170203#m",
+      "text": "DDoS Alert: 🇰🇷  RipperSec claims to have targeted the website of SNT Motiv Co., Ltd. (sntmotiv.com).  NB : The site is up at the moment.",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 2:08 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 888
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021570819042803835",
+      "link": "https://twitter.com/FalconFeedsio/status/2021570819042803835#m",
+      "text": "🚨 DDoS Alert: 🇰🇷  RipperSec claims to have targeted the website of Data Center Korea (datacenterkorea.kr).  NB : The site is up at the moment",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 1:03 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 4,
+        "likes": 1043
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021208021968486840",
+      "link": "https://twitter.com/FalconFeedsio/status/2021208021968486840#m",
+      "text": "🚨 DDoS Alert: 🇰🇷  RipperSec claims to have targeted the website of Korea International Trade Association (kita.org).",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 1:01 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 3,
+        "likes": 958
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-13T06:25:54.964376",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 9,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
