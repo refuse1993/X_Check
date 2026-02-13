@@ -169,6 +169,13 @@ def send_mattermost(analysis: dict, tweets: list[dict]) -> bool:
         return False
 
     now = datetime.now().strftime("%Y-%m-%d %H:%M KST")
+    issue_type = analysis.get('issue_type', 'unknown')
+    issue_type_kr = {
+        'cyber_attack': '🔴 사이버 공격',
+        'service_outage': '🟠 서비스 장애',
+        'security_incident': '🟡 보안 사고',
+        'none': '정보'
+    }.get(issue_type, issue_type)
 
     # 메시지 구성
     message = f"""### 🚨 한국 금융권 위협 감지
@@ -176,29 +183,53 @@ def send_mattermost(analysis: dict, tweets: list[dict]) -> bool:
 | 항목 | 내용 |
 |------|------|
 | 탐지 시간 | {now} |
+| 이슈 유형 | {issue_type_kr} |
 | 확신도 | {analysis.get('confidence', 'N/A')} |
 
-#### 📋 요약
+#### 📋 GPT 분석 요약
 {analysis.get('summary', 'N/A')}
 
 """
 
-    # 상세 내용 추가
+    # 상세 내용 추가 (관련 트윗 전체 정보)
     details = analysis.get("details", [])
     if details:
-        message += "#### 🔍 상세 내용\n\n"
-        for detail in details[:5]:  # 최대 5개
+        message += "---\n#### 🔍 관련 트윗 상세 정보\n\n"
+        for detail in details[:10]:  # 최대 10개
             idx = detail.get("tweet_index", 0)
             if idx > 0 and idx <= len(tweets):
                 tweet = tweets[idx - 1]
+                username = tweet.get("user", {}).get("username", "unknown")
+                tweet_date = tweet.get("date", "N/A")
                 link = tweet.get("link", "#")
-                message += f"""**{detail.get('company', 'N/A')}** - {detail.get('threat_type', 'N/A')} ({detail.get('severity', 'N/A')})
-> {detail.get('summary', '')}
-> [원본 보기]({link})
+                text = tweet.get("text", "내용 없음")
+                keyword = tweet.get("_keyword", "N/A")
+                company = detail.get("company", "N/A")
+                severity = detail.get("severity", "N/A")
+                detail_issue = detail.get("issue_type", "N/A")
+
+                # 심각도 이모지
+                severity_emoji = {"high": "🔴", "medium": "🟠", "low": "🟡"}.get(severity, "⚪")
+
+                message += f"""**{severity_emoji} {company}** - {detail_issue}
+
+| 항목 | 내용 |
+|------|------|
+| 작성자 | @{username} |
+| 작성 시간 | {tweet_date} |
+| 검색 키워드 | `{keyword}` |
+| 심각도 | {severity} |
+
+**트윗 전문:**
+> {text}
+
+🔗 **[원본 트윗 보기]({link})**
+
+---
 
 """
 
-    message += f"\n---\n[GitHub Issues](https://github.com/{os.getenv('GITHUB_REPOSITORY', '')}/issues)"
+    message += f"\n📌 [GitHub Issues에서 전체 보기](https://github.com/{os.getenv('GITHUB_REPOSITORY', '')}/issues)"
 
     try:
         response = requests.post(
