@@ -1,0 +1,93 @@
+{
+  "username": "접속 안돼",
+  "tweets": [
+    {
+      "id": "2022230323967533278",
+      "link": "https://twitter.com/2sen238/status/2022230323967533278#m",
+      "text": "#최솔  손 큰 최 요원 보고 싶음 작두 드는 인간이 손이 작을 리가. 김솔음 평소에 딱히 체감 못 하고 있었는데   \" 왜 포도 뭐가 안돼~? \"  \" 아뇨 이거 사이트 접속이.. \"  김솔음 모니터만 뚫어져라 보고 있으면 최 요원 마우스 위로 손 겹쳐 잡음.",
+      "user": {
+        "name": "이슨",
+        "username": "@2sen238",
+        "profile_id": "1999771148847112192",
+        "avatar": "/pic/profile_images/1999771148847112192/_XyrFQaQ_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 8:44 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 109,
+        "quotes": 1222,
+        "likes": 27140
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022328627497775156",
+      "link": "https://twitter.com/paperin9/status/2022328627497775156#m",
+      "text": "사실 내가 요즘 가장 즐겁게 접속하는 인터넷 공간은 나폴리탄 괴담 갤러리인 듯.. 그냥 우리 다같이 이야기하고 놀면 안 돼요? 막 이러시구..",
+      "user": {
+        "name": "도배",
+        "username": "@paperin9",
+        "profile_id": "1896107917956562944",
+        "avatar": "/pic/profile_images/1896107917956562944/PYUjqHZy_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 3:14 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 41
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022324902360183290",
+      "link": "https://twitter.com/gimyohan253635/status/2022324902360183290#m",
+      "text": "딴건까도 이건까면안돼.. 진짜로.. 나같은 사람은 이렇게 안하면 일퀘도 제대로 못해.. 부담이 이 덕분에 확 줄어서 접속을 잘 하고 있는 거란 말이야..",
+      "user": {
+        "name": "기묘한",
+        "username": "@gimyohan253635",
+        "profile_id": "1975187145573990400",
+        "avatar": "/pic/profile_images/1975187145573990400/d21acfDj_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 3:00 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 32
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-14T07:42:29.201351",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 3,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
