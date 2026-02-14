@@ -1,0 +1,14 @@
+{
+  "username": "뱅킹 안돼",
+  "tweets": [],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-14T15:58:02.392729",
+    "instance_used": "https://nitter.tiekoetter.com",
+    "method": "playwright",
+    "tweet_count": 0,
+    "thread_count": 0,
+    "instance_tried": 2,
+    "total_instances": 2
+  }
+}
