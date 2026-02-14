@@ -1,0 +1,386 @@
+{
+  "username": "DDoS Korea",
+  "tweets": [
+    {
+      "id": "2022081968981020839",
+      "link": "https://twitter.com/grok/status/2022081968981020839#m",
+      "text": "The 2014 PlayStation Network outage was due to a DDoS attack by the Lizard Squad hacking group, not North Korea. That said, North Korea was officially linked by the US to the separate Sony Pictures hack that year, tied to \"The Interview\" film.",
+      "user": {
+        "name": "Grok",
+        "username": "@grok",
+        "profile_id": "1893219113717342208",
+        "avatar": "/pic/profile_images/1893219113717342208/Vgg2hEPa_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 10:54 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "http://play.google.com/store/apps/details?id=ai.x.grok",
+      "replying-to": [
+        "@RobelAsfaww",
+        "@kirawontmiss"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 79
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021777815692357695",
+      "link": "https://twitter.com/stealthmole_int/status/2021777815692357695#m",
+      "text": "[STEALTHMOLE'S CASES] Intelligence on Two Hacker Groups Behind DDoS Attacks Against the Republic of Korea Army Training Center  Two hacktivist collectives—BD Anonymous and RipperSec II—have publicly called for distributed denial-of-service operations targeting the Republic of Korea Army Training Center (katc.mil.kr). Between 9 and 11 February 2026, each group issued near-identical technical parameters via Telegram channels, leveraging ideological messaging tied to the Israel–Palestine conflict. Both campaigns converge on the same IP and port set, underscoring a coordinated threat surface against Korea Telecom infrastructure.",
+      "user": {
+        "name": "Fusion Intelligence Center @ StealthMole",
+        "username": "@stealthmole_int",
+        "profile_id": "1672125069919920131",
+        "avatar": "/pic/profile_images/1672125069919920131/-WjBv-Zs_bigger.jpg"
+      },
+      "date": "Feb 12, 2026 · 2:46 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 5,
+        "quotes": 19,
+        "likes": 2922
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021589884343926822",
+      "link": "https://twitter.com/FalconFeedsio/status/2021589884343926822#m",
+      "text": "🚨 DDoS Alert: 🇰🇷  BD Anonymous claims to have targeted the website of Korea Army Training Center (KATC) (katc.mil.kr).  NB : The site is up at the moment",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 2:19 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 1082
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021570819042803835",
+      "link": "https://twitter.com/FalconFeedsio/status/2021570819042803835#m",
+      "text": "🚨 DDoS Alert: 🇰🇷  RipperSec claims to have targeted the website of Data Center Korea (datacenterkorea.kr).  NB : The site is up at the moment",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Feb 11, 2026 · 1:03 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 4,
+        "likes": 1122
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021208021968486840",
+      "link": "https://twitter.com/FalconFeedsio/status/2021208021968486840#m",
+      "text": "🚨 DDoS Alert: 🇰🇷  RipperSec claims to have targeted the website of Korea International Trade Association (kita.org).",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 1:01 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 3,
+        "likes": 981
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2020840612300530008",
+      "link": "https://twitter.com/SnehaShela79680/status/2020840612300530008#m",
+      "text": "linkedin.com/pulse/south-kor…",
+      "user": {
+        "name": "Sneha Shelar",
+        "username": "@SnehaShela79680",
+        "profile_id": "1757801837120589824",
+        "avatar": "/pic/profile_images/1757801837120589824/wGGkwUMZ_bigger.png"
+      },
+      "date": "Feb 9, 2026 · 12:42 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://www.linkedin.com/pulse/south-korea-ddos-protection-mitigation-security-market-7hzqf/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 4
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2020839335248216159",
+      "link": "https://twitter.com/FalconFeedsio/status/2020839335248216159#m",
+      "text": "🚨 DDoS Alert: 🇰🇷  RipperSec claims to have targeted the website of Republic of Korea Army (army.mil.kr)  NB : The site is up at the moment",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Feb 9, 2026 · 12:36 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 952
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2020246668713812075",
+      "link": "https://twitter.com/ugalmugale40746/status/2020246668713812075#m",
+      "text": "linkedin.com/pulse/south-kor…",
+      "user": {
+        "name": "Atul Ugalmugale",
+        "username": "@ugalmugale40746",
+        "profile_id": "1847644729057693703",
+        "avatar": "/pic/profile_images/1847644729057693703/S77dLV3h_bigger.png"
+      },
+      "date": "Feb 7, 2026 · 9:21 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://www.linkedin.com/pulse/south-korea-ddos-protection-tool-market-size-2026-expansion-pc2ff/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 6
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2019766046694183262",
+      "link": "https://twitter.com/FalconFeedsio/status/2019766046694183262#m",
+      "text": "🚨 DDoS Alert: 🇰🇷  RipperSec Team claims to have targeted the website of Defense Acquisition Program Administration of the Republic of Korea (dapa.go.kr)  NB : The site is up at the moment.",
+      "user": {
+        "name": "FalconFeeds.io",
+        "username": "@FalconFeedsio",
+        "profile_id": "1554826323365085184",
+        "avatar": "/pic/profile_images/1554826323365085184/FplPKGMF_bigger.jpg"
+      },
+      "date": "Feb 6, 2026 · 1:32 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 1,
+        "quotes": 6,
+        "likes": 1190
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2019665099687125034",
+      "link": "https://twitter.com/Punkyvist_kong/status/2019665099687125034#m",
+      "text": "Rather than an internal security issue, this is a DDoS attack that momentarily increases traffic. We are partnering with AhnLab, Korea's leading security company.  I'll pay a little more attention🙏🏻",
+      "user": {
+        "name": "PUNKVISM KINGKONG",
+        "username": "@Punkyvist_kong",
+        "profile_id": "1864312437455114241",
+        "avatar": "/pic/profile_images/1864312437455114241/8fssgmh3_bigger.jpg"
+      },
+      "date": "Feb 6, 2026 · 6:50 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@bagaskara52_",
+        "@EvanLuthra",
+        "@thispositif67"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 27
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2019092024415384063",
+      "link": "https://twitter.com/ugalmugale40746/status/2019092024415384063#m",
+      "text": "linkedin.com/pulse/south-kor…",
+      "user": {
+        "name": "Atul Ugalmugale",
+        "username": "@ugalmugale40746",
+        "profile_id": "1847644729057693703",
+        "avatar": "/pic/profile_images/1847644729057693703/S77dLV3h_bigger.png"
+      },
+      "date": "Feb 4, 2026 · 4:53 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://www.linkedin.com/pulse/south-korea-ddos-protection-tool-market-size-2026-expansion-pc2ff/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 5
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2018933977009230000",
+      "link": "https://twitter.com/bonde23950/status/2018933977009230000#m",
+      "text": "linkedin.com/pulse/south-kor…",
+      "user": {
+        "name": "Mukul Bonde",
+        "username": "@bonde23950",
+        "profile_id": "1795792865076854785",
+        "avatar": "/pic/profile_images/1795792865076854785/HTytyoj2_bigger.jpg"
+      },
+      "date": "Feb 4, 2026 · 6:25 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://www.linkedin.com/pulse/south-korea-ddos-attack-protection-service-market-opurf/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 6
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2018687352370049319",
+      "link": "https://twitter.com/DavidClar1053/status/2018687352370049319#m",
+      "text": "linkedin.com/pulse/south-kor…",
+      "user": {
+        "name": "David Clarke",
+        "username": "@DavidClar1053",
+        "profile_id": "1990662333291769858",
+        "avatar": "/pic/profile_images/1990662333291769858/1Ri9Zvt7_bigger.png"
+      },
+      "date": "Feb 3, 2026 · 2:05 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://www.linkedin.com/pulse/south-korea-ddos-protection-mitigation-hardware-market-m2ejf/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 6
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2018566608067956832",
+      "link": "https://twitter.com/NortjeBilly/status/2018566608067956832#m",
+      "text": "linkedin.com/pulse/south-kor…",
+      "user": {
+        "name": "Billy Nortje",
+        "username": "@NortjeBilly",
+        "profile_id": "1989251448232976384",
+        "avatar": "/pic/profile_images/1989251448232976384/fPgjLh-W_bigger.png"
+      },
+      "date": "Feb 3, 2026 · 6:05 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://www.linkedin.com/pulse/south-korea-ddos-protection-mitigation-hardware-market-m2ejf/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 10
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-14T19:31:14.736902",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 14,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
