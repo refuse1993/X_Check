@@ -1,0 +1,513 @@
+{
+  "username": "앱 먹통",
+  "tweets": [
+    {
+      "id": "2021366067285876828",
+      "link": "https://twitter.com/jeonyongsic/status/2021366067285876828#m",
+      "text": "맥북이 갑자기 앱 먹통이 되거나, 로딩이 끝없이 돌아가는 무한로딩, 혹은 커서 멈춤처럼 입력이 전혀 안 먹는 순간이 있죠. 이럴 때 가장 중요한 건 “바로 전원을 꺼버리기”가 아니라, 데이터 손실을 최소화하는 순서로 단계적으로 시도하는 겁니다.   it.info-rainmaker.co.kr/2026…",
+      "user": {
+        "name": "전용식",
+        "username": "@jeonyongsic",
+        "profile_id": "502303388583735296",
+        "avatar": "/pic/profile_images/502303388583735296/1buggGc6_bigger.jpeg"
+      },
+      "date": "Feb 10, 2026 · 11:30 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://it.info-rainmaker.co.kr/2026/02/macbook-force-shutdown-5ways.html",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 55
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021253826108359034",
+      "link": "https://twitter.com/keepthisimple/status/2021253826108359034#m",
+      "text": "스핀 이상하네 알림와서 답장 할려고 앱 들어갓더니 먹통임ㅠ 나만 이런가???",
+      "user": {
+        "name": "zero🍒",
+        "username": "@keepthisimple",
+        "profile_id": "2017974974859112448",
+        "avatar": "/pic/profile_images/2017974974859112448/7IeV97BE_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 4:03 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 2,
+        "retweets": 0,
+        "quotes": 9,
+        "likes": 640
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021208013697065122",
+      "link": "https://twitter.com/Adam_hazbinbot/status/2021208013697065122#m",
+      "text": "RT @Lucifer__M_S_: 앱이 먹통이였어서 잠시 쉬다왔더니 저 놈은 왜 끌려가는거지",
+      "user": {
+        "name": "❄잔소리하는 ADAM",
+        "username": "@Adam_hazbinbot",
+        "profile_id": "2019961497619951616",
+        "avatar": "/pic/profile_images/2019961497619951616/8k2CYeDt_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 1:01 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 0,
+        "likes": 0
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021206359367352569",
+      "link": "https://twitter.com/Lucifer__M_S_/status/2021206359367352569#m",
+      "text": "앱이 먹통이였어서 잠시 쉬다왔더니 저 놈은 왜 끌려가는거지",
+      "user": {
+        "name": "Lucifer",
+        "username": "@Lucifer__M_S_",
+        "profile_id": "2018528530041311233",
+        "avatar": "/pic/profile_images/2018528530041311233/BTy12n83_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 12:55 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 8,
+        "likes": 143
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021202292427632862",
+      "link": "https://twitter.com/blue_hour15/status/2021202292427632862#m",
+      "text": "ios 26.2.1 업데이트 후 오류로 키패드 터치가 잘 안된다. 앱 검색도 안되고 일부 기능이 먹통이야😡😡😡",
+      "user": {
+        "name": "블루아워🕯️",
+        "username": "@blue_hour15",
+        "profile_id": "1712362193059221505",
+        "avatar": "/pic/profile_images/1712362193059221505/RK3t5uxt_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 12:39 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 43
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021181748898357707",
+      "link": "https://twitter.com/kunnykunkun/status/2021181748898357707#m",
+      "text": "갑분앱먹통되서망한줄알고울면서앱날리고재접속했는데1층사이드랑2층다남아있어서잠시고민하다걍2층잡음선예매성공한거처음이야🥹🥹",
+      "user": {
+        "name": "min",
+        "username": "@kunnykunkun",
+        "profile_id": "1974461832657244160",
+        "avatar": "/pic/profile_images/1974461832657244160/CYJqvhgp_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 11:17 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 55
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2021179234048147608",
+      "link": "https://twitter.com/c_bal1818/status/2021179234048147608#m",
+      "text": "피씨는 시스템 오류나서 새고 두번함 앱은 먹통돼서 새고도 안눌림 ㅈㄴ쳐늦음 ㅅㄱ",
+      "user": {
+        "name": "4번정지당함",
+        "username": "@c_bal1818",
+        "profile_id": "1992549336291618816",
+        "avatar": "/pic/profile_images/1992549336291618816/4Az25wNF_bigger.jpg"
+      },
+      "date": "Feb 10, 2026 · 11:07 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 49
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "1996897831416627423",
+      "link": "https://twitter.com/wnektk333/status/1996897831416627423#m",
+      "text": "\"인터넷은 멈춰도 내 기록은 멈추지 않는다\" @BeldexCoin x @KaitoAI   불금에 또다시 클라우드플레어 대규모 네트워크 장애가 터졌다 수많은 웹사이트와 앱들이 '500 Internal Server Error' 메시지로 멈춰버렸다 배민, 올리브영, 업비트, 심지어 LoL운영사 라이엇게임즈까지 순식간에 먹통... 우리는 잠깐 인터넷 전체가 꺼지는 순간을 실시간으로 겪었다  인터넷이 멈출 수 있고 데이터베이스가 털릴 수 있는 이 세상에서 우리 프라이버시를 지키는건 더 이상 선택이 아니라 필수다  그래서 Beldex $BDX 가 더 특별하게 느껴진다 트랜잭션 전부는 RingCT + Stealth Address + Ring Signature 로 처리되어 누가 보냈는지, 누가 받았는지, 얼마가 오갔는지 어떤 제3자도 알수 없게한다  메시지와 통신은 BChat / BelNet 같은 분산 애플리케이션(dApp)으로 처리돼 중앙 서버가 없으니 기록도, 로그도, 추적 경로도 남지 않는다  Web3 브라우저, 지갑, dVPN 까지 단순한 익명 화폐를 넘어서 '익명성 + 통신 + 인터넷 사용 전반'을 포괄하는 생태계를 구축하고 있다  이건 단지 숨기는 기술이 아니라 보여주지 않아도 되는 자유를 설계하는 기술이다  그래서 나는 멈추지 않는다 데이터가 털리고, 서버가 무너지고, 세상이 또 불안정해져도   내 정보, 내 대화, 내 선택 이 모든건 결국 나만 지킬 수 있는 것이니까  프라이버시는 옵션이 아니라 우리가 지켜야 할 기본이다",
+      "user": {
+        "name": "OZ듀이 | SPACE🛰",
+        "username": "@wnektk333",
+        "profile_id": "1993212307498057733",
+        "avatar": "/pic/profile_images/1993212307498057733/DSdcFIgP_bigger.jpg"
+      },
+      "date": "Dec 5, 2025 · 11:01 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 64,
+        "retweets": 1,
+        "quotes": 77,
+        "likes": 2056
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2020877280030097728",
+      "link": "https://twitter.com/lapsangs/status/2020877280030097728#m",
+      "text": "컬쳐패스 앱은 자정마다 먹통이 되는데 문화소비쿠폰 받아서 쓰는 사람이 있긴 할까.",
+      "user": {
+        "name": "lapsang",
+        "username": "@lapsangs",
+        "profile_id": "1933863245347172352",
+        "avatar": "/pic/profile_images/1933863245347172352/0ULHRP3R_bigger.jpg"
+      },
+      "date": "Feb 9, 2026 · 3:07 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 839
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2020753858088022291",
+      "link": "https://twitter.com/world_only_one/status/2020753858088022291#m",
+      "text": "저도진짜무서웠습니다.... 근데 게임 돌린다고 인터넷이 안되고 전화가 안되고 모든 인터넷관련 앱들이 먹통이 되는 거 보고 진짜 망겜은 수준이 다르구나 느꼈습니다 가쿠마스(아이돌 어쩌고)는 하루종일 돌려도 멀쩡했거든요",
+      "user": {
+        "name": "백세상",
+        "username": "@world_only_one",
+        "profile_id": "1588085972264112129",
+        "avatar": "/pic/profile_images/1588085972264112129/5L678v_C_bigger.jpg"
+      },
+      "date": "Feb 9, 2026 · 6:57 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@Hamsters_crtw"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 52
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2020724474048626731",
+      "link": "https://twitter.com/baseball_G_M_S/status/2020724474048626731#m",
+      "text": "라니 시발 앱이 먹통이됨",
+      "user": {
+        "name": "하제",
+        "username": "@baseball_G_M_S",
+        "profile_id": "1693290257570275330",
+        "avatar": "/pic/profile_images/1693290257570275330/TKiVTy6A_bigger.jpg"
+      },
+      "date": "Feb 9, 2026 · 5:00 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 56
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2020420908700311957",
+      "link": "https://twitter.com/sim_donggy90146/status/2020420908700311957#m",
+      "text": "MS 계정 오류, 윈도우 메모장(Notepad)까지 먹통으로 만들다  MS 계정 라이선스 오류로 인해 윈도우의 기본 텍스트 에디터인 '메모장'조차 실행되지 않는 황당한 사건이 발생했습니다. 오프라인 로컬 앱까지 클라우드 인증을 요구하는 상황에 사용자는 '내 PC의 주인은 누구인가'라는 근본적인 질문을 던지고 있습니다.  🔗 windowscentral.com/microsoft…  PC의 'Thin Client(단말기)'화가 가속화되고 있습니다. OS가 단순한 구동 환경이 아니라 '구독형 서비스'로 변질되면서, 사용자의 소유권이 침해받고 있습니다. 메모장마저 인터넷 연결과 계정 인증을 요구하는 것은 빅테크 기업들의 과도한 통제 욕망을 보여줍니다. 이는 오픈소스 OS(리눅스 등)로의 이탈을 부채질하는 자충수가 될 수 있습니다.  편리함을 담보로 자유를 저당 잡히는 시대입니다. 클라우드 종속성이 심화될수록 '디지털 자급자족(Self-hosting)' 운동이 힘을 얻을 것입니다. 내 데이터와 소프트웨어를 온전히 내가 소유하려는 움직임은 기술적 트렌드를 넘어 하나의 시조(Philosophy)가 될 것입니다.",
+      "user": {
+        "name": "Mr.S",
+        "username": "@sim_donggy90146",
+        "profile_id": "1860982644735176704",
+        "avatar": "/pic/profile_images/1860982644735176704/J4ri_X55_bigger.jpg"
+      },
+      "date": "Feb 8, 2026 · 8:54 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 4,
+        "likes": 42
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2020401854182732159",
+      "link": "https://twitter.com/WEARETRIGGER/status/2020401854182732159#m",
+      "text": "아니나만가끔 아이폰 키보드 충돌?? 생김? 트윗이나 아무튼 뭐 키보드쓰려고 입력창을누르면 키보드가안올라오고 그 앱이 그대로먹통이되는... 이거 해결법이 전원껏다키기밖에없는데",
+      "user": {
+        "name": "양말코정이",
+        "username": "@WEARETRIGGER",
+        "profile_id": "2019249348593545216",
+        "avatar": "/pic/profile_images/2019249348593545216/p1ioiWLX_bigger.jpg"
+      },
+      "date": "Feb 8, 2026 · 7:38 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 102
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2020161660091048098",
+      "link": "https://twitter.com/hambugi_yum/status/2020161660091048098#m",
+      "text": "아니 웹트는 알림창 걍 먹통이고 앱으로 알림창 직접 들어가면 그제서야 밀린 알람 우수수 보임 ㄱ-",
+      "user": {
+        "name": "햄부기",
+        "username": "@hambugi_yum",
+        "profile_id": "1931427412585357313",
+        "avatar": "/pic/profile_images/1931427412585357313/8fE7nY_6_bigger.jpg"
+      },
+      "date": "Feb 7, 2026 · 3:44 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 42
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2019970662950138240",
+      "link": "https://twitter.com/booooom421/status/2019970662950138240#m",
+      "text": "아직도 알림창이 먹통이네 쓰레기앱",
+      "user": {
+        "name": "반려폭탄",
+        "username": "@booooom421",
+        "profile_id": "2011033939465682948",
+        "avatar": "/pic/profile_images/2011033939465682948/NVmo4Qgu_bigger.jpg"
+      },
+      "date": "Feb 7, 2026 · 3:05 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 84
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2019932380669292629",
+      "link": "https://twitter.com/GreatUGB/status/2019932380669292629#m",
+      "text": "𝕏 안드로이드 앱에 업데이트가 있었네요.   드.디.어. 프리미엄+ 탭이 별도로 생겼으며, 오랜 시간동안 먹통이었던 사용통계 Analytics 가 비로소 제대로 동작하네요 ㅎ  안드로이드가 맨날 한 발 늦는 듯 소외받는 느낌 😂",
+      "user": {
+        "name": ".zip",
+        "username": "@GreatUGB",
+        "profile_id": "2012732225461137408",
+        "avatar": "/pic/profile_images/2012732225461137408/AqEYhfUk_bigger.jpg"
+      },
+      "date": "Feb 7, 2026 · 12:33 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 99
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2019789424641372316",
+      "link": "https://twitter.com/borntobeblue_3/status/2019789424641372316#m",
+      "text": "나 왜 아까부터 폰으로 예사들어가면 앙뜨로와만 뜨지ㅠㅠ 앱도 웹도 먹통이네",
+      "user": {
+        "name": "루카",
+        "username": "@borntobeblue_3",
+        "profile_id": "1959241402736668672",
+        "avatar": "/pic/profile_images/1959241402736668672/XaywWUe0_bigger.jpg"
+      },
+      "date": "Feb 6, 2026 · 3:04 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 104
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2019775035209036138",
+      "link": "https://twitter.com/hango13579/status/2019775035209036138#m",
+      "text": "사용량이 줄어들긴 했어요 그런데 다른 앱들은 여전히 먹통이여서 확인해봤는데 서버호스트 CDPUer 앱이 사용량이 꽤 높아 찾아보니 데이터 백업 및 복구 솔루션 앱이라고 하더라구요 종료 시키려 하니까  window가 사용할 수 없게 되거나 저장하지 않은 데이터가 손실 될 수 있다고 뜨네요!",
+      "user": {
+        "name": "호람",
+        "username": "@hango13579",
+        "profile_id": "1987536114748731392",
+        "avatar": "/pic/profile_images/1987536114748731392/3-vWbwZk_bigger.jpg"
+      },
+      "date": "Feb 6, 2026 · 2:07 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@e000111"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 143
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2019744016250630491",
+      "link": "https://twitter.com/je_yu3028/status/2019744016250630491#m",
+      "text": "낮에 갑자기 앱 먹통됐어서 이제야 제대로 작동하네요..ㅜㅜ",
+      "user": {
+        "name": "제유",
+        "username": "@je_yu3028",
+        "profile_id": "2022566768573808641",
+        "avatar": "/pic/profile_images/2022566768573808641/4ojEQKzu_bigger.jpg"
+      },
+      "date": "Feb 6, 2026 · 12:04 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 38
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-14T23:35:34.229806",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 19,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
