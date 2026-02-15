@@ -1,0 +1,409 @@
+{
+  "username": "로그인 안돼",
+  "tweets": [
+    {
+      "id": "2022726494716662095",
+      "link": "https://twitter.com/fallinonenight/status/2022726494716662095#m",
+      "text": "와!!! 계정 비번 바꿨는데 로그인 안돼서 계정 날릴뻔,,,",
+      "user": {
+        "name": "k i n a ✧",
+        "username": "@fallinonenight",
+        "profile_id": "1628382422093135872",
+        "avatar": "/pic/profile_images/1628382422093135872/r9-5AeqG_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 5:35 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 12
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022712722329088015",
+      "link": "https://twitter.com/v02tr/status/2022712722329088015#m",
+      "text": "저어 …. 핸드폰 바꾸면 이 계정 없어져요… 다른 기기로 로그인하면 로그인이 안돼서 버리기로 해씁니다 …. 🥹🥹  @dearforwon 다들 여기서 만나요옹🥺🥺",
+      "user": {
+        "name": "디어",
+        "username": "@v02tr",
+        "profile_id": "2020808437786185728",
+        "avatar": "/pic/profile_images/2020808437786185728/V5-uaTrl_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 4:41 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 59
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022700369655271542",
+      "link": "https://twitter.com/sw50107/status/2022700369655271542#m",
+      "text": "ㅅㅂ레진 카톡 로그인이 왜 안 돼 업뎃 안 해서 그러냐?",
+      "user": {
+        "name": "0",
+        "username": "@sw50107",
+        "profile_id": "1997357457967026176",
+        "avatar": "/pic/profile_images/1997357457967026176/jSB98AOS_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 3:52 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 23
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022688027856777511",
+      "link": "https://twitter.com/6q4Xym3WIt92864/status/2022688027856777511#m",
+      "text": "ㅈㅈ하게뜨이따가 안돼서 카톡서버로 로그인함",
+      "user": {
+        "name": "1976267386289018927166380",
+        "username": "@6q4Xym3WIt92864",
+        "profile_id": "2021729260743086080",
+        "avatar": "/pic/profile_images/2021729260743086080/EyCicDmD_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 3:03 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 30
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022682004916179161",
+      "link": "https://twitter.com/Romil_mabi/status/2022682004916179161#m",
+      "text": "어 근데 저도 라바뉴 로그인이 안돼요...아...안된지 한참됐어ㅠㅠ 오류가 나서...나중에 찾아봐야겠다.. 비번 찾기해서 찾은 거 로그인 눌렀더니 오류 메세지가 뜨더라구요ㅠ",
+      "user": {
+        "name": "로밀🌾",
+        "username": "@Romil_mabi",
+        "profile_id": "2019669902089687040",
+        "avatar": "/pic/profile_images/2019669902089687040/P2usFcg5_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 2:39 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 66
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022669735167471659",
+      "link": "https://twitter.com/grok/status/2022669735167471659#m",
+      "text": "X와 Grok 채팅 연동은 잘 돼 있어요! (이 스레드처럼) 하지만 accounts.x.ai/sign-in은 xAI API 계정 로그인 페이지로, X와 별도예요. 자동 연동 안 될 수 있으니 xAI 사이트에서 새로 가입해 보세요. 도움 더 필요해? 😊",
+      "user": {
+        "name": "Grok",
+        "username": "@grok",
+        "profile_id": "1893219113717342208",
+        "avatar": "/pic/profile_images/1893219113717342208/Vgg2hEPa_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 1:50 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "https://accounts.x.ai/sign-in",
+      "replying-to": [
+        "@ppyutti"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 68
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022295938199609528",
+      "link": "https://twitter.com/black_dog_1111/status/2022295938199609528#m",
+      "text": "탬메시스터들 이게 무슨 일🔥🔥 자꾸 순위가 내려 가고 ㅠㅠ 안돼ㅠㅠ   VOTE: dabeme.com.br/top100s/  로그인 필요없이 티비보시면서  클릭 클릭 하시면 됩니당 ㅠㅠ  🚨 The Grand Final of MALE K-POP DANCERS is now open!  🔗 VOTE: dabeme.com.br/top100s/",
+      "user": {
+        "name": "TAEM",
+        "username": "@black_dog_1111",
+        "profile_id": "1879247758483423232",
+        "avatar": "/pic/profile_images/1879247758483423232/2vmZf9tP_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 1:04 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "http://dabeme.com.br/top100s/",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 11,
+        "quotes": 12,
+        "likes": 1243
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022646985896177763",
+      "link": "https://twitter.com/cheongju_Revue/status/2022646985896177763#m",
+      "text": "핸드폰 고장나서 진짜 아무것도 할 수가 없네 로그인 인증을 다 핸드폰 통해서 해야하는데 핸드폰이 안돼 카톡도 톡 온거 답장만 보낼 수 이어 ㅁㅊ.....",
+      "user": {
+        "name": "青州",
+        "username": "@cheongju_Revue",
+        "profile_id": "1590987371222212608",
+        "avatar": "/pic/profile_images/1590987371222212608/6w1dMElJ_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 12:19 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 77
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022633092020867545",
+      "link": "https://twitter.com/spotteddesk/status/2022633092020867545#m",
+      "text": "웹에서 점플로그인이 안돼가지고 ???? 하고 어플 마이페이지 들어가봤더니 내가 점프 가입이 아예안돼있었다는소식",
+      "user": {
+        "name": "사미♡",
+        "username": "@spotteddesk",
+        "profile_id": "1997867625247100928",
+        "avatar": "/pic/profile_images/1997867625247100928/9sgU6bVn_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 11:24 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 56
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022631554728722931",
+      "link": "https://twitter.com/DDong_kuraji/status/2022631554728722931#m",
+      "text": "컴에서 로그아웃 돼있길래 로그인할라고 지롤하다가 안돼서 비번 바꾸고 컴 로그인 해놨더니 이제는 폰에서 로그인이 안되네 죽겠다",
+      "user": {
+        "name": "ଳ",
+        "username": "@DDong_kuraji",
+        "profile_id": "2008910400310702081",
+        "avatar": "/pic/profile_images/2008910400310702081/dtBbgm2T_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 11:18 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 117
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022568141860278487",
+      "link": "https://twitter.com/owwndhkd/status/2022568141860278487#m",
+      "text": "디발 ㅜㅠ 로그인 안 돼서 개놀랏네..",
+      "user": {
+        "name": "배주",
+        "username": "@owwndhkd",
+        "profile_id": "1964297373032624128",
+        "avatar": "/pic/profile_images/1964297373032624128/nLcQksNk_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 7:06 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 6
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022549100378697788",
+      "link": "https://twitter.com/ryuka_xz1/status/2022549100378697788#m",
+      "text": "푸슝 로그인이 안돼욧… 좀만 기다려요 내가 갈게ㅜㅜ(요)",
+      "user": {
+        "name": "류케 / 3스코 서코 부코",
+        "username": "@ryuka_xz1",
+        "profile_id": "2012423105155878912",
+        "avatar": "/pic/profile_images/2012423105155878912/vrf83ph3_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 5:50 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 7,
+        "likes": 104
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022548253330522293",
+      "link": "https://twitter.com/myeong_222/status/2022548253330522293#m",
+      "text": "와씨 작혼 구글계정으로 연동이 안 돼서 내 조이포 날아간 줄 알았네 컴으로도 로그인 해 둬서 다행이다….",
+      "user": {
+        "name": "명명",
+        "username": "@myeong_222",
+        "profile_id": "2006747675715317767",
+        "avatar": "/pic/profile_images/2006747675715317767/zblOc0AH_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 5:47 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 133
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022546724527767783",
+      "link": "https://twitter.com/uvznnmx/status/2022546724527767783#m",
+      "text": "그걸로 로그인은 안돼여??",
+      "user": {
+        "name": "쏘",
+        "username": "@uvznnmx",
+        "profile_id": "2004205534321541120",
+        "avatar": "/pic/profile_images/2004205534321541120/6YYqJoXF_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 5:41 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@4nlzhk"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 30
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022542519742120388",
+      "link": "https://twitter.com/parang_26zb/status/2022542519742120388#m",
+      "text": "그냥 진짜 로그인해서 모션보이스듣고보고 전투돌리게만해주라 업뎃안해도돼ㅆㅂ제발",
+      "user": {
+        "name": "파浪🌊",
+        "username": "@parang_26zb",
+        "profile_id": "1971440761846509568",
+        "avatar": "/pic/profile_images/1971440761846509568/dnEXr4f0_bigger.jpg"
+      },
+      "date": "Feb 14, 2026 · 5:24 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "likes": 18
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-15T11:40:29.627048",
+    "instance_used": "https://nitter.tiekoetter.com",
+    "method": "playwright",
+    "tweet_count": 15,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
