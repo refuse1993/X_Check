@@ -1,0 +1,43 @@
+{
+  "username": "결제 안대",
+  "tweets": [
+    {
+      "id": "2022207511189930218",
+      "link": "https://twitter.com/babysoonmoo/status/2022207511189930218#m",
+      "text": "머야 안대 롱충님 이거 결제해주세요🚨🚨🚨",
+      "user": {
+        "name": "순뮤",
+        "username": "@babysoonmoo",
+        "profile_id": "2012504627942453248",
+        "avatar": "/pic/profile_images/2012504627942453248/1zhDTDX0_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 7:13 AM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@longisgood_"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 1,
+        "retweets": 0,
+        "quotes": 1,
+        "likes": 14
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-16T03:42:26.824019",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 1,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
