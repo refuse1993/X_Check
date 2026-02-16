@@ -1,0 +1,67 @@
+{
+  "username": "MegaMedusa",
+  "tweets": [
+    {
+      "id": "2023172572440060289",
+      "link": "https://twitter.com/StealthMole_JP/status/2023172572440060289#m",
+      "text": "RipperSecの拡大する標的リスト：イデオロギー、メッセージング、そしてメガメドゥーサ要因   stealthmole-intelligence-hub…",
+      "user": {
+        "name": "StealthMole.jp",
+        "username": "@StealthMole_JP",
+        "profile_id": "1675665267530276864",
+        "avatar": "/pic/profile_images/1675665267530276864/JtlNc0gw_bigger.jpg"
+      },
+      "date": "Feb 15, 2026 · 11:08 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 87
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2022343411970552157",
+      "link": "https://twitter.com/stealthmole_int/status/2022343411970552157#m",
+      "text": "RipperSec’s Expanding Target List: Ideology, Messaging, and the MegaMedusa Factor  stealthmole-intelligence-hub…",
+      "user": {
+        "name": "Fusion Intelligence Center @ StealthMole",
+        "username": "@stealthmole_int",
+        "profile_id": "1672125069919920131",
+        "avatar": "/pic/profile_images/1672125069919920131/-WjBv-Zs_bigger.jpg"
+      },
+      "date": "Feb 13, 2026 · 4:13 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 5,
+        "quotes": 26,
+        "likes": 3806
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-16T16:08:38.515898",
+    "instance_used": "https://nitter.privacyredirect.com",
+    "method": "playwright",
+    "tweet_count": 2,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
