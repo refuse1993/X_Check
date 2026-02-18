@@ -1,0 +1,98 @@
+{
+  "username": "송금 안돼",
+  "tweets": [
+    {
+      "id": "2023423738323276090",
+      "link": "https://twitter.com/Rapunzel6525411/status/2023423738323276090#m",
+      "text": "찢재명 매달 ‘합법적 송금’ 으로 안정적으로 디올 이랑 각종 명품 구매 가능한가보네 ㅋㅋ 노동신문 값, 핵폐기물 북괴채소 팔아 북괴정권 넉넉히 충당 가능한가보오 돼정은이가 직접 앵벌이 지휘 안해도 되는거야? ㅋ",
+      "user": {
+        "name": "라푼젤",
+        "username": "@Rapunzel6525411",
+        "profile_id": "1994841951921655808",
+        "avatar": "/pic/profile_images/1994841951921655808/5Rqi847e_bigger.jpg"
+      },
+      "date": "Feb 16, 2026 · 3:46 PM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@jake__L_"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 49,
+        "likes": 3232
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2023556851036754236",
+      "link": "https://twitter.com/san9son/status/2023556851036754236#m",
+      "text": "오빠 그럼 저 2억만 보내주시면 안 돼요...? 백시윤: 오브콜스지 임마  어디로 보내면 돼 토스뱅크? 송금했다 감사합니다 오빠...! 새해복 많이받으세요",
+      "user": {
+        "name": "🚬🐙",
+        "username": "@san9son",
+        "profile_id": "2023049030167851009",
+        "avatar": "/pic/profile_images/2023049030167851009/rG-MIXmB_bigger.jpg"
+      },
+      "date": "Feb 17, 2026 · 12:35 AM UTC",
+      "is-retweet": true,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [],
+      "quoted-post": {},
+      "stats": {
+        "comments": 0,
+        "retweets": 1,
+        "quotes": 0,
+        "likes": 57
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    },
+    {
+      "id": "2023380208888553747",
+      "link": "https://twitter.com/l1ZSCc5LJwoBSnl/status/2023380208888553747#m",
+      "text": "성실은 지랄하네 야 내가 인니새끼들이랑 일했는데 IQ 후달려서 소통이 안돼서 같은일을 씨발 몇번을 쳐 했는지 모른다 일머리의 나라에서 최저시급이라도 벌어서 본국에 송금하고 싶으면 닥치고 일이나해",
+      "user": {
+        "name": "무지는 후드려 쳐패야",
+        "username": "@l1ZSCc5LJwoBSnl",
+        "profile_id": "1159091540297261056",
+        "avatar": "/pic/profile_images/1159091540297261056/UAxosSEz_bigger.jpg"
+      },
+      "date": "Feb 16, 2026 · 12:53 PM UTC",
+      "is-retweet": false,
+      "is-pinned": false,
+      "external-link": "",
+      "replying-to": [
+        "@INETZ01",
+        "@ujqc7"
+      ],
+      "quoted-post": {},
+      "stats": {
+        "comments": 2,
+        "retweets": 0,
+        "quotes": 2,
+        "likes": 406
+      },
+      "pictures": [],
+      "videos": [],
+      "gifs": []
+    }
+  ],
+  "threads": [],
+  "meta": {
+    "crawled_at": "2026-02-18T14:27:19.141372",
+    "instance_used": "https://nitter.tiekoetter.com",
+    "method": "playwright",
+    "tweet_count": 3,
+    "thread_count": 0,
+    "instance_tried": 1,
+    "total_instances": 2
+  }
+}
